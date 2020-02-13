@@ -1,0 +1,1064 @@
+Removed Pin From Net: NetName=+5 Pin=C1_CO1-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO2-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO3-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO4-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO5-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO6-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO7-1
+Removed Pin From Net: NetName=+5 Pin=C1_CO8-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO1-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO2-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO3-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO4-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO5-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO6-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO7-1
+Removed Pin From Net: NetName=+5 Pin=C2_CO8-1
+Removed Pin From Net: NetName=+5 Pin=IC1_CO1-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO1-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO2-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO2-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO3-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO3-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO4-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO4-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO5-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO5-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO6-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO6-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO7-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO7-12
+Removed Pin From Net: NetName=+5 Pin=IC1_CO8-6
+Removed Pin From Net: NetName=+5 Pin=IC1_CO8-12
+Change Component Designator: OldDesignator=C1_CO1 NewDesignator=C2_CO1
+Change Component Designator: OldDesignator=C1_CO2 NewDesignator=C2_CO2
+Change Component Designator: OldDesignator=C1_CO3 NewDesignator=C2_CO3
+Change Component Designator: OldDesignator=C1_CO4 NewDesignator=C2_CO4
+Change Component Designator: OldDesignator=C1_CO5 NewDesignator=C2_CO5
+Change Component Designator: OldDesignator=C1_CO6 NewDesignator=C2_CO6
+Change Component Designator: OldDesignator=C1_CO7 NewDesignator=C2_CO7
+Change Component Designator: OldDesignator=C1_CO8 NewDesignator=C2_CO8
+Change Component Designator: OldDesignator=C2_CO1 NewDesignator=C4_CO1
+Change Component Designator: OldDesignator=C2_CO2 NewDesignator=C4_CO2
+Change Component Designator: OldDesignator=C2_CO3 NewDesignator=C4_CO3
+Change Component Designator: OldDesignator=C2_CO4 NewDesignator=C4_CO4
+Change Component Designator: OldDesignator=C2_CO5 NewDesignator=C4_CO5
+Change Component Designator: OldDesignator=C2_CO6 NewDesignator=C4_CO6
+Change Component Designator: OldDesignator=C2_CO7 NewDesignator=C4_CO7
+Change Component Designator: OldDesignator=C2_CO8 NewDesignator=C4_CO8
+Added Component: Designator=C1_CO1(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO2(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO3(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO4(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO5(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO6(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO7(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_CO8(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO1(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO2(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO3(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO4(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO5(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO6(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO7(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3_CO8(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO1(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO2(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO3(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO4(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO5(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO6(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO7(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5_CO8(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO1(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO2(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO3(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO4(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO5(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO6(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO7(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6_CO8(CAPC2013X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/CC0805ZRY5V9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC805ZRY5V9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO1(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO2(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO3(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO4(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO5(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO6(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO7(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2_CO8(SOIC127P780X200-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa4202.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA4202IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO1(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO2(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO3(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO4(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO5(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO6(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO7(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3_CO8(SOIC127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/cd4043b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-CD4043BDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1_CO1-1
+Added Pin To Net: NetName=GND Pin=C1_CO2-1
+Added Pin To Net: NetName=GND Pin=C1_CO3-1
+Added Pin To Net: NetName=GND Pin=C1_CO4-1
+Added Pin To Net: NetName=GND Pin=C1_CO5-1
+Added Pin To Net: NetName=GND Pin=C1_CO6-1
+Added Pin To Net: NetName=GND Pin=C1_CO7-1
+Added Pin To Net: NetName=GND Pin=C1_CO8-1
+Added Pin To Net: NetName=GND Pin=C2_CO1-1
+Added Pin To Net: NetName=GND Pin=C2_CO2-1
+Added Pin To Net: NetName=GND Pin=C2_CO3-1
+Added Pin To Net: NetName=GND Pin=C2_CO4-1
+Added Pin To Net: NetName=GND Pin=C2_CO5-1
+Added Pin To Net: NetName=GND Pin=C2_CO6-1
+Added Pin To Net: NetName=GND Pin=C2_CO7-1
+Added Pin To Net: NetName=GND Pin=C2_CO8-1
+Added Pin To Net: NetName=GND Pin=C3_CO1-1
+Added Pin To Net: NetName=GND Pin=C3_CO2-1
+Added Pin To Net: NetName=GND Pin=C3_CO3-1
+Added Pin To Net: NetName=GND Pin=C3_CO4-1
+Added Pin To Net: NetName=GND Pin=C3_CO5-1
+Added Pin To Net: NetName=GND Pin=C3_CO6-1
+Added Pin To Net: NetName=GND Pin=C3_CO7-1
+Added Pin To Net: NetName=GND Pin=C3_CO8-1
+Added Pin To Net: NetName=GND Pin=C4_CO1-1
+Added Pin To Net: NetName=GND Pin=C4_CO2-1
+Added Pin To Net: NetName=GND Pin=C4_CO3-1
+Added Pin To Net: NetName=GND Pin=C4_CO4-1
+Added Pin To Net: NetName=GND Pin=C4_CO5-1
+Added Pin To Net: NetName=GND Pin=C4_CO6-1
+Added Pin To Net: NetName=GND Pin=C4_CO7-1
+Added Pin To Net: NetName=GND Pin=C4_CO8-1
+Added Pin To Net: NetName=+5 Pin=C5_CO1-1
+Added Pin To Net: NetName=GND Pin=C5_CO1-2
+Added Pin To Net: NetName=+5 Pin=C5_CO2-1
+Added Pin To Net: NetName=GND Pin=C5_CO2-2
+Added Pin To Net: NetName=+5 Pin=C5_CO3-1
+Added Pin To Net: NetName=GND Pin=C5_CO3-2
+Added Pin To Net: NetName=+5 Pin=C5_CO4-1
+Added Pin To Net: NetName=GND Pin=C5_CO4-2
+Added Pin To Net: NetName=+5 Pin=C5_CO5-1
+Added Pin To Net: NetName=GND Pin=C5_CO5-2
+Added Pin To Net: NetName=+5 Pin=C5_CO6-1
+Added Pin To Net: NetName=GND Pin=C5_CO6-2
+Added Pin To Net: NetName=+5 Pin=C5_CO7-1
+Added Pin To Net: NetName=GND Pin=C5_CO7-2
+Added Pin To Net: NetName=+5 Pin=C5_CO8-1
+Added Pin To Net: NetName=GND Pin=C5_CO8-2
+Added Pin To Net: NetName=-5 Pin=C6_CO1-1
+Added Pin To Net: NetName=GND Pin=C6_CO1-2
+Added Pin To Net: NetName=-5 Pin=C6_CO2-1
+Added Pin To Net: NetName=GND Pin=C6_CO2-2
+Added Pin To Net: NetName=-5 Pin=C6_CO3-1
+Added Pin To Net: NetName=GND Pin=C6_CO3-2
+Added Pin To Net: NetName=-5 Pin=C6_CO4-1
+Added Pin To Net: NetName=GND Pin=C6_CO4-2
+Added Pin To Net: NetName=-5 Pin=C6_CO5-1
+Added Pin To Net: NetName=GND Pin=C6_CO5-2
+Added Pin To Net: NetName=-5 Pin=C6_CO6-1
+Added Pin To Net: NetName=GND Pin=C6_CO6-2
+Added Pin To Net: NetName=-5 Pin=C6_CO7-1
+Added Pin To Net: NetName=GND Pin=C6_CO7-2
+Added Pin To Net: NetName=-5 Pin=C6_CO8-1
+Added Pin To Net: NetName=GND Pin=C6_CO8-2
+Added Pin To Net: NetName=+5 Pin=IC1_CO1-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO2-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO3-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO4-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO5-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO6-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO7-24
+Added Pin To Net: NetName=+5 Pin=IC1_CO8-24
+Added Pin To Net: NetName=GND Pin=IC2_CO1-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO1-4
+Added Pin To Net: NetName=GND Pin=IC2_CO1-6
+Added Pin To Net: NetName=GND Pin=IC2_CO1-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO1-11
+Added Pin To Net: NetName=GND Pin=IC2_CO1-13
+Added Pin To Net: NetName=GND Pin=IC2_CO2-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO2-4
+Added Pin To Net: NetName=GND Pin=IC2_CO2-6
+Added Pin To Net: NetName=GND Pin=IC2_CO2-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO2-11
+Added Pin To Net: NetName=GND Pin=IC2_CO2-13
+Added Pin To Net: NetName=GND Pin=IC2_CO3-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO3-4
+Added Pin To Net: NetName=GND Pin=IC2_CO3-6
+Added Pin To Net: NetName=GND Pin=IC2_CO3-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO3-11
+Added Pin To Net: NetName=GND Pin=IC2_CO3-13
+Added Pin To Net: NetName=GND Pin=IC2_CO4-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO4-4
+Added Pin To Net: NetName=GND Pin=IC2_CO4-6
+Added Pin To Net: NetName=GND Pin=IC2_CO4-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO4-11
+Added Pin To Net: NetName=GND Pin=IC2_CO4-13
+Added Pin To Net: NetName=GND Pin=IC2_CO5-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO5-4
+Added Pin To Net: NetName=GND Pin=IC2_CO5-6
+Added Pin To Net: NetName=GND Pin=IC2_CO5-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO5-11
+Added Pin To Net: NetName=GND Pin=IC2_CO5-13
+Added Pin To Net: NetName=GND Pin=IC2_CO6-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO6-4
+Added Pin To Net: NetName=GND Pin=IC2_CO6-6
+Added Pin To Net: NetName=GND Pin=IC2_CO6-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO6-11
+Added Pin To Net: NetName=GND Pin=IC2_CO6-13
+Added Pin To Net: NetName=GND Pin=IC2_CO7-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO7-4
+Added Pin To Net: NetName=GND Pin=IC2_CO7-6
+Added Pin To Net: NetName=GND Pin=IC2_CO7-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO7-11
+Added Pin To Net: NetName=GND Pin=IC2_CO7-13
+Added Pin To Net: NetName=GND Pin=IC2_CO8-2
+Added Pin To Net: NetName=+5 Pin=IC2_CO8-4
+Added Pin To Net: NetName=GND Pin=IC2_CO8-6
+Added Pin To Net: NetName=GND Pin=IC2_CO8-9
+Added Pin To Net: NetName=-5 Pin=IC2_CO8-11
+Added Pin To Net: NetName=GND Pin=IC2_CO8-13
+Added Pin To Net: NetName=NetIC1_CO1_1 Pin=IC3_CO1-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO1-5
+Added Pin To Net: NetName=NetIC1_CO1_4 Pin=IC3_CO1-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO1-8
+Added Pin To Net: NetName=NetIC1_CO1_7 Pin=IC3_CO1-12
+Added Pin To Net: NetName=NetIC1_CO1_10 Pin=IC3_CO1-14
+Added Pin To Net: NetName=GND Pin=IC3_CO1-16
+Added Pin To Net: NetName=NetIC1_CO2_1 Pin=IC3_CO2-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO2-5
+Added Pin To Net: NetName=NetIC1_CO2_4 Pin=IC3_CO2-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO2-8
+Added Pin To Net: NetName=NetIC1_CO2_7 Pin=IC3_CO2-12
+Added Pin To Net: NetName=NetIC1_CO2_10 Pin=IC3_CO2-14
+Added Pin To Net: NetName=GND Pin=IC3_CO2-16
+Added Pin To Net: NetName=NetIC1_CO3_1 Pin=IC3_CO3-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO3-5
+Added Pin To Net: NetName=NetIC1_CO3_4 Pin=IC3_CO3-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO3-8
+Added Pin To Net: NetName=NetIC1_CO3_7 Pin=IC3_CO3-12
+Added Pin To Net: NetName=NetIC1_CO3_10 Pin=IC3_CO3-14
+Added Pin To Net: NetName=GND Pin=IC3_CO3-16
+Added Pin To Net: NetName=NetIC1_CO4_1 Pin=IC3_CO4-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO4-5
+Added Pin To Net: NetName=NetIC1_CO4_4 Pin=IC3_CO4-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO4-8
+Added Pin To Net: NetName=NetIC1_CO4_7 Pin=IC3_CO4-12
+Added Pin To Net: NetName=NetIC1_CO4_10 Pin=IC3_CO4-14
+Added Pin To Net: NetName=GND Pin=IC3_CO4-16
+Added Pin To Net: NetName=NetIC1_CO5_1 Pin=IC3_CO5-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO5-5
+Added Pin To Net: NetName=NetIC1_CO5_4 Pin=IC3_CO5-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO5-8
+Added Pin To Net: NetName=NetIC1_CO5_7 Pin=IC3_CO5-12
+Added Pin To Net: NetName=NetIC1_CO5_10 Pin=IC3_CO5-14
+Added Pin To Net: NetName=GND Pin=IC3_CO5-16
+Added Pin To Net: NetName=NetIC1_CO6_1 Pin=IC3_CO6-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO6-5
+Added Pin To Net: NetName=NetIC1_CO6_4 Pin=IC3_CO6-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO6-8
+Added Pin To Net: NetName=NetIC1_CO6_7 Pin=IC3_CO6-12
+Added Pin To Net: NetName=NetIC1_CO6_10 Pin=IC3_CO6-14
+Added Pin To Net: NetName=GND Pin=IC3_CO6-16
+Added Pin To Net: NetName=NetIC1_CO7_1 Pin=IC3_CO7-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO7-5
+Added Pin To Net: NetName=NetIC1_CO7_4 Pin=IC3_CO7-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO7-8
+Added Pin To Net: NetName=NetIC1_CO7_7 Pin=IC3_CO7-12
+Added Pin To Net: NetName=NetIC1_CO7_10 Pin=IC3_CO7-14
+Added Pin To Net: NetName=GND Pin=IC3_CO7-16
+Added Pin To Net: NetName=NetIC1_CO8_1 Pin=IC3_CO8-4
+Added Pin To Net: NetName=+5 Pin=IC3_CO8-5
+Added Pin To Net: NetName=NetIC1_CO8_4 Pin=IC3_CO8-6
+Added Pin To Net: NetName=+5 Pin=IC3_CO8-8
+Added Pin To Net: NetName=NetIC1_CO8_7 Pin=IC3_CO8-12
+Added Pin To Net: NetName=NetIC1_CO8_10 Pin=IC3_CO8-14
+Added Pin To Net: NetName=GND Pin=IC3_CO8-16
+Added Pin To Net: NetName=AMP_A_CO1 Pin=IC1_CO1-2
+Added Pin To Net: NetName=AMP_A_CO1 Pin=IC2_CO1-1
+Added Net: Name=AMP_A_CO1
+Added Pin To Net: NetName=AMP_A_CO2 Pin=IC1_CO2-2
+Added Pin To Net: NetName=AMP_A_CO2 Pin=IC2_CO2-1
+Added Net: Name=AMP_A_CO2
+Added Pin To Net: NetName=AMP_A_CO3 Pin=IC1_CO3-2
+Added Pin To Net: NetName=AMP_A_CO3 Pin=IC2_CO3-1
+Added Net: Name=AMP_A_CO3
+Added Pin To Net: NetName=AMP_A_CO4 Pin=IC1_CO4-2
+Added Pin To Net: NetName=AMP_A_CO4 Pin=IC2_CO4-1
+Added Net: Name=AMP_A_CO4
+Added Pin To Net: NetName=AMP_A_CO5 Pin=IC1_CO5-2
+Added Pin To Net: NetName=AMP_A_CO5 Pin=IC2_CO5-1
+Added Net: Name=AMP_A_CO5
+Added Pin To Net: NetName=AMP_A_CO6 Pin=IC1_CO6-2
+Added Pin To Net: NetName=AMP_A_CO6 Pin=IC2_CO6-1
+Added Net: Name=AMP_A_CO6
+Added Pin To Net: NetName=AMP_A_CO7 Pin=IC1_CO7-2
+Added Pin To Net: NetName=AMP_A_CO7 Pin=IC2_CO7-1
+Added Net: Name=AMP_A_CO7
+Added Pin To Net: NetName=AMP_A_CO8 Pin=IC1_CO8-2
+Added Pin To Net: NetName=AMP_A_CO8 Pin=IC2_CO8-1
+Added Net: Name=AMP_A_CO8
+Added Pin To Net: NetName=AMP_B_CO1 Pin=IC1_CO1-5
+Added Pin To Net: NetName=AMP_B_CO1 Pin=IC2_CO1-7
+Added Net: Name=AMP_B_CO1
+Added Pin To Net: NetName=AMP_B_CO2 Pin=IC1_CO2-5
+Added Pin To Net: NetName=AMP_B_CO2 Pin=IC2_CO2-7
+Added Net: Name=AMP_B_CO2
+Added Pin To Net: NetName=AMP_B_CO3 Pin=IC1_CO3-5
+Added Pin To Net: NetName=AMP_B_CO3 Pin=IC2_CO3-7
+Added Net: Name=AMP_B_CO3
+Added Pin To Net: NetName=AMP_B_CO4 Pin=IC1_CO4-5
+Added Pin To Net: NetName=AMP_B_CO4 Pin=IC2_CO4-7
+Added Net: Name=AMP_B_CO4
+Added Pin To Net: NetName=AMP_B_CO5 Pin=IC1_CO5-5
+Added Pin To Net: NetName=AMP_B_CO5 Pin=IC2_CO5-7
+Added Net: Name=AMP_B_CO5
+Added Pin To Net: NetName=AMP_B_CO6 Pin=IC1_CO6-5
+Added Pin To Net: NetName=AMP_B_CO6 Pin=IC2_CO6-7
+Added Net: Name=AMP_B_CO6
+Added Pin To Net: NetName=AMP_B_CO7 Pin=IC1_CO7-5
+Added Pin To Net: NetName=AMP_B_CO7 Pin=IC2_CO7-7
+Added Net: Name=AMP_B_CO7
+Added Pin To Net: NetName=AMP_B_CO8 Pin=IC1_CO8-5
+Added Pin To Net: NetName=AMP_B_CO8 Pin=IC2_CO8-7
+Added Net: Name=AMP_B_CO8
+Added Pin To Net: NetName=AMP_C_CO1 Pin=IC1_CO1-8
+Added Pin To Net: NetName=AMP_C_CO1 Pin=IC2_CO1-8
+Added Net: Name=AMP_C_CO1
+Added Pin To Net: NetName=AMP_C_CO2 Pin=IC1_CO2-8
+Added Pin To Net: NetName=AMP_C_CO2 Pin=IC2_CO2-8
+Added Net: Name=AMP_C_CO2
+Added Pin To Net: NetName=AMP_C_CO3 Pin=IC1_CO3-8
+Added Pin To Net: NetName=AMP_C_CO3 Pin=IC2_CO3-8
+Added Net: Name=AMP_C_CO3
+Added Pin To Net: NetName=AMP_C_CO4 Pin=IC1_CO4-8
+Added Pin To Net: NetName=AMP_C_CO4 Pin=IC2_CO4-8
+Added Net: Name=AMP_C_CO4
+Added Pin To Net: NetName=AMP_C_CO5 Pin=IC1_CO5-8
+Added Pin To Net: NetName=AMP_C_CO5 Pin=IC2_CO5-8
+Added Net: Name=AMP_C_CO5
+Added Pin To Net: NetName=AMP_C_CO6 Pin=IC1_CO6-8
+Added Pin To Net: NetName=AMP_C_CO6 Pin=IC2_CO6-8
+Added Net: Name=AMP_C_CO6
+Added Pin To Net: NetName=AMP_C_CO7 Pin=IC1_CO7-8
+Added Pin To Net: NetName=AMP_C_CO7 Pin=IC2_CO7-8
+Added Net: Name=AMP_C_CO7
+Added Pin To Net: NetName=AMP_C_CO8 Pin=IC1_CO8-8
+Added Pin To Net: NetName=AMP_C_CO8 Pin=IC2_CO8-8
+Added Net: Name=AMP_C_CO8
+Added Pin To Net: NetName=AMP_D_CO1 Pin=IC1_CO1-11
+Added Pin To Net: NetName=AMP_D_CO1 Pin=IC2_CO1-14
+Added Net: Name=AMP_D_CO1
+Added Pin To Net: NetName=AMP_D_CO2 Pin=IC1_CO2-11
+Added Pin To Net: NetName=AMP_D_CO2 Pin=IC2_CO2-14
+Added Net: Name=AMP_D_CO2
+Added Pin To Net: NetName=AMP_D_CO3 Pin=IC1_CO3-11
+Added Pin To Net: NetName=AMP_D_CO3 Pin=IC2_CO3-14
+Added Net: Name=AMP_D_CO3
+Added Pin To Net: NetName=AMP_D_CO4 Pin=IC1_CO4-11
+Added Pin To Net: NetName=AMP_D_CO4 Pin=IC2_CO4-14
+Added Net: Name=AMP_D_CO4
+Added Pin To Net: NetName=AMP_D_CO5 Pin=IC1_CO5-11
+Added Pin To Net: NetName=AMP_D_CO5 Pin=IC2_CO5-14
+Added Net: Name=AMP_D_CO5
+Added Pin To Net: NetName=AMP_D_CO6 Pin=IC1_CO6-11
+Added Pin To Net: NetName=AMP_D_CO6 Pin=IC2_CO6-14
+Added Net: Name=AMP_D_CO6
+Added Pin To Net: NetName=AMP_D_CO7 Pin=IC1_CO7-11
+Added Pin To Net: NetName=AMP_D_CO7 Pin=IC2_CO7-14
+Added Net: Name=AMP_D_CO7
+Added Pin To Net: NetName=AMP_D_CO8 Pin=IC1_CO8-11
+Added Pin To Net: NetName=AMP_D_CO8 Pin=IC2_CO8-14
+Added Net: Name=AMP_D_CO8
+Added Pin To Net: NetName=NetC1_CO1_2 Pin=C1_CO1-2
+Added Pin To Net: NetName=NetC1_CO1_2 Pin=IC1_CO1-6
+Added Net: Name=NetC1_CO1_2
+Added Pin To Net: NetName=NetC1_CO2_2 Pin=C1_CO2-2
+Added Pin To Net: NetName=NetC1_CO2_2 Pin=IC1_CO2-6
+Added Net: Name=NetC1_CO2_2
+Added Pin To Net: NetName=NetC1_CO3_2 Pin=C1_CO3-2
+Added Pin To Net: NetName=NetC1_CO3_2 Pin=IC1_CO3-6
+Added Net: Name=NetC1_CO3_2
+Added Pin To Net: NetName=NetC1_CO4_2 Pin=C1_CO4-2
+Added Pin To Net: NetName=NetC1_CO4_2 Pin=IC1_CO4-6
+Added Net: Name=NetC1_CO4_2
+Added Pin To Net: NetName=NetC1_CO5_2 Pin=C1_CO5-2
+Added Pin To Net: NetName=NetC1_CO5_2 Pin=IC1_CO5-6
+Added Net: Name=NetC1_CO5_2
+Added Pin To Net: NetName=NetC1_CO6_2 Pin=C1_CO6-2
+Added Pin To Net: NetName=NetC1_CO6_2 Pin=IC1_CO6-6
+Added Net: Name=NetC1_CO6_2
+Added Pin To Net: NetName=NetC1_CO7_2 Pin=C1_CO7-2
+Added Pin To Net: NetName=NetC1_CO7_2 Pin=IC1_CO7-6
+Added Net: Name=NetC1_CO7_2
+Added Pin To Net: NetName=NetC1_CO8_2 Pin=C1_CO8-2
+Added Pin To Net: NetName=NetC1_CO8_2 Pin=IC1_CO8-6
+Added Net: Name=NetC1_CO8_2
+Added Pin To Net: NetName=NetC3_CO1_2 Pin=C3_CO1-2
+Added Pin To Net: NetName=NetC3_CO1_2 Pin=IC1_CO1-12
+Added Net: Name=NetC3_CO1_2
+Added Pin To Net: NetName=NetC3_CO2_2 Pin=C3_CO2-2
+Added Pin To Net: NetName=NetC3_CO2_2 Pin=IC1_CO2-12
+Added Net: Name=NetC3_CO2_2
+Added Pin To Net: NetName=NetC3_CO3_2 Pin=C3_CO3-2
+Added Pin To Net: NetName=NetC3_CO3_2 Pin=IC1_CO3-12
+Added Net: Name=NetC3_CO3_2
+Added Pin To Net: NetName=NetC3_CO4_2 Pin=C3_CO4-2
+Added Pin To Net: NetName=NetC3_CO4_2 Pin=IC1_CO4-12
+Added Net: Name=NetC3_CO4_2
+Added Pin To Net: NetName=NetC3_CO5_2 Pin=C3_CO5-2
+Added Pin To Net: NetName=NetC3_CO5_2 Pin=IC1_CO5-12
+Added Net: Name=NetC3_CO5_2
+Added Pin To Net: NetName=NetC3_CO6_2 Pin=C3_CO6-2
+Added Pin To Net: NetName=NetC3_CO6_2 Pin=IC1_CO6-12
+Added Net: Name=NetC3_CO6_2
+Added Pin To Net: NetName=NetC3_CO7_2 Pin=C3_CO7-2
+Added Pin To Net: NetName=NetC3_CO7_2 Pin=IC1_CO7-12
+Added Net: Name=NetC3_CO7_2
+Added Pin To Net: NetName=NetC3_CO8_2 Pin=C3_CO8-2
+Added Pin To Net: NetName=NetC3_CO8_2 Pin=IC1_CO8-12
+Added Net: Name=NetC3_CO8_2
+Added Pin To Net: NetName=NetIC2_CO1_3 Pin=IC2_CO1-3
+Added Pin To Net: NetName=NetIC2_CO1_3 Pin=P1-31
+Added Net: Name=NetIC2_CO1_3
+Added Pin To Net: NetName=NetIC2_CO1_5 Pin=IC2_CO1-5
+Added Pin To Net: NetName=NetIC2_CO1_5 Pin=P1-29
+Added Net: Name=NetIC2_CO1_5
+Added Pin To Net: NetName=NetIC2_CO1_10 Pin=IC2_CO1-10
+Added Pin To Net: NetName=NetIC2_CO1_10 Pin=P1-27
+Added Net: Name=NetIC2_CO1_10
+Added Pin To Net: NetName=NetIC2_CO1_12 Pin=IC2_CO1-12
+Added Pin To Net: NetName=NetIC2_CO1_12 Pin=P1-25
+Added Net: Name=NetIC2_CO1_12
+Added Pin To Net: NetName=NetIC2_CO2_3 Pin=IC2_CO2-3
+Added Pin To Net: NetName=NetIC2_CO2_3 Pin=P1-23
+Added Net: Name=NetIC2_CO2_3
+Added Pin To Net: NetName=NetIC2_CO2_5 Pin=IC2_CO2-5
+Added Pin To Net: NetName=NetIC2_CO2_5 Pin=P1-21
+Added Net: Name=NetIC2_CO2_5
+Added Pin To Net: NetName=NetIC2_CO2_10 Pin=IC2_CO2-10
+Added Pin To Net: NetName=NetIC2_CO2_10 Pin=P1-19
+Added Net: Name=NetIC2_CO2_10
+Added Pin To Net: NetName=NetIC2_CO2_12 Pin=IC2_CO2-12
+Added Pin To Net: NetName=NetIC2_CO2_12 Pin=P1-17
+Added Net: Name=NetIC2_CO2_12
+Added Pin To Net: NetName=NetIC2_CO3_3 Pin=IC2_CO3-3
+Added Pin To Net: NetName=NetIC2_CO3_3 Pin=P1-15
+Added Net: Name=NetIC2_CO3_3
+Added Pin To Net: NetName=NetIC2_CO3_5 Pin=IC2_CO3-5
+Added Pin To Net: NetName=NetIC2_CO3_5 Pin=P1-13
+Added Net: Name=NetIC2_CO3_5
+Added Pin To Net: NetName=NetIC2_CO3_10 Pin=IC2_CO3-10
+Added Pin To Net: NetName=NetIC2_CO3_10 Pin=P1-11
+Added Net: Name=NetIC2_CO3_10
+Added Pin To Net: NetName=NetIC2_CO3_12 Pin=IC2_CO3-12
+Added Pin To Net: NetName=NetIC2_CO3_12 Pin=P1-9
+Added Net: Name=NetIC2_CO3_12
+Added Pin To Net: NetName=NetIC2_CO4_3 Pin=IC2_CO4-3
+Added Pin To Net: NetName=NetIC2_CO4_3 Pin=P1-7
+Added Net: Name=NetIC2_CO4_3
+Added Pin To Net: NetName=NetIC2_CO4_5 Pin=IC2_CO4-5
+Added Pin To Net: NetName=NetIC2_CO4_5 Pin=P1-5
+Added Net: Name=NetIC2_CO4_5
+Added Pin To Net: NetName=NetIC2_CO4_10 Pin=IC2_CO4-10
+Added Pin To Net: NetName=NetIC2_CO4_10 Pin=P1-3
+Added Net: Name=NetIC2_CO4_10
+Added Pin To Net: NetName=NetIC2_CO4_12 Pin=IC2_CO4-12
+Added Pin To Net: NetName=NetIC2_CO4_12 Pin=P1-1
+Added Net: Name=NetIC2_CO4_12
+Added Pin To Net: NetName=NetIC2_CO5_3 Pin=IC2_CO5-3
+Added Pin To Net: NetName=NetIC2_CO5_3 Pin=P2-31
+Added Net: Name=NetIC2_CO5_3
+Added Pin To Net: NetName=NetIC2_CO5_5 Pin=IC2_CO5-5
+Added Pin To Net: NetName=NetIC2_CO5_5 Pin=P2-29
+Added Net: Name=NetIC2_CO5_5
+Added Pin To Net: NetName=NetIC2_CO5_10 Pin=IC2_CO5-10
+Added Pin To Net: NetName=NetIC2_CO5_10 Pin=P2-27
+Added Net: Name=NetIC2_CO5_10
+Added Pin To Net: NetName=NetIC2_CO5_12 Pin=IC2_CO5-12
+Added Pin To Net: NetName=NetIC2_CO5_12 Pin=P2-25
+Added Net: Name=NetIC2_CO5_12
+Added Pin To Net: NetName=NetIC2_CO6_3 Pin=IC2_CO6-3
+Added Pin To Net: NetName=NetIC2_CO6_3 Pin=P2-23
+Added Net: Name=NetIC2_CO6_3
+Added Pin To Net: NetName=NetIC2_CO6_5 Pin=IC2_CO6-5
+Added Pin To Net: NetName=NetIC2_CO6_5 Pin=P2-21
+Added Net: Name=NetIC2_CO6_5
+Added Pin To Net: NetName=NetIC2_CO6_10 Pin=IC2_CO6-10
+Added Pin To Net: NetName=NetIC2_CO6_10 Pin=P2-19
+Added Net: Name=NetIC2_CO6_10
+Added Pin To Net: NetName=NetIC2_CO6_12 Pin=IC2_CO6-12
+Added Pin To Net: NetName=NetIC2_CO6_12 Pin=P2-17
+Added Net: Name=NetIC2_CO6_12
+Added Pin To Net: NetName=NetIC2_CO7_3 Pin=IC2_CO7-3
+Added Pin To Net: NetName=NetIC2_CO7_3 Pin=P2-15
+Added Net: Name=NetIC2_CO7_3
+Added Pin To Net: NetName=NetIC2_CO7_5 Pin=IC2_CO7-5
+Added Pin To Net: NetName=NetIC2_CO7_5 Pin=P2-13
+Added Net: Name=NetIC2_CO7_5
+Added Pin To Net: NetName=NetIC2_CO7_10 Pin=IC2_CO7-10
+Added Pin To Net: NetName=NetIC2_CO7_10 Pin=P2-11
+Added Net: Name=NetIC2_CO7_10
+Added Pin To Net: NetName=NetIC2_CO7_12 Pin=IC2_CO7-12
+Added Pin To Net: NetName=NetIC2_CO7_12 Pin=P2-9
+Added Net: Name=NetIC2_CO7_12
+Added Pin To Net: NetName=NetIC2_CO8_3 Pin=IC2_CO8-3
+Added Pin To Net: NetName=NetIC2_CO8_3 Pin=P2-7
+Added Net: Name=NetIC2_CO8_3
+Added Pin To Net: NetName=NetIC2_CO8_5 Pin=IC2_CO8-5
+Added Pin To Net: NetName=NetIC2_CO8_5 Pin=P2-5
+Added Net: Name=NetIC2_CO8_5
+Added Pin To Net: NetName=NetIC2_CO8_10 Pin=IC2_CO8-10
+Added Pin To Net: NetName=NetIC2_CO8_10 Pin=P2-3
+Added Net: Name=NetIC2_CO8_10
+Added Pin To Net: NetName=NetIC2_CO8_12 Pin=IC2_CO8-12
+Added Pin To Net: NetName=NetIC2_CO8_12 Pin=P2-1
+Added Net: Name=NetIC2_CO8_12
+Added Pin To Net: NetName=NetIC3_CO1_1 Pin=IC3_CO1-1
+Added Net: Name=NetIC3_CO1_1
+Added Pin To Net: NetName=NetIC3_CO1_2 Pin=IC3_CO1-2
+Added Net: Name=NetIC3_CO1_2
+Added Pin To Net: NetName=NetIC3_CO1_3 Pin=IC3_CO1-3
+Added Pin To Net: NetName=NetIC3_CO1_3 Pin=IC3_CO1-7
+Added Pin To Net: NetName=NetIC3_CO1_3 Pin=IC3_CO1-11
+Added Pin To Net: NetName=NetIC3_CO1_3 Pin=IC3_CO1-15
+Added Net: Name=NetIC3_CO1_3
+Added Pin To Net: NetName=NetIC3_CO1_9 Pin=IC3_CO1-9
+Added Net: Name=NetIC3_CO1_9
+Added Pin To Net: NetName=NetIC3_CO1_10 Pin=IC3_CO1-10
+Added Net: Name=NetIC3_CO1_10
+Added Pin To Net: NetName=NetIC3_CO2_1 Pin=IC3_CO2-1
+Added Net: Name=NetIC3_CO2_1
+Added Pin To Net: NetName=NetIC3_CO2_2 Pin=IC3_CO2-2
+Added Net: Name=NetIC3_CO2_2
+Added Pin To Net: NetName=NetIC3_CO2_3 Pin=IC3_CO2-3
+Added Pin To Net: NetName=NetIC3_CO2_3 Pin=IC3_CO2-7
+Added Pin To Net: NetName=NetIC3_CO2_3 Pin=IC3_CO2-11
+Added Pin To Net: NetName=NetIC3_CO2_3 Pin=IC3_CO2-15
+Added Net: Name=NetIC3_CO2_3
+Added Pin To Net: NetName=NetIC3_CO2_9 Pin=IC3_CO2-9
+Added Net: Name=NetIC3_CO2_9
+Added Pin To Net: NetName=NetIC3_CO2_10 Pin=IC3_CO2-10
+Added Net: Name=NetIC3_CO2_10
+Added Pin To Net: NetName=NetIC3_CO3_1 Pin=IC3_CO3-1
+Added Net: Name=NetIC3_CO3_1
+Added Pin To Net: NetName=NetIC3_CO3_2 Pin=IC3_CO3-2
+Added Net: Name=NetIC3_CO3_2
+Added Pin To Net: NetName=NetIC3_CO3_3 Pin=IC3_CO3-3
+Added Pin To Net: NetName=NetIC3_CO3_3 Pin=IC3_CO3-7
+Added Pin To Net: NetName=NetIC3_CO3_3 Pin=IC3_CO3-11
+Added Pin To Net: NetName=NetIC3_CO3_3 Pin=IC3_CO3-15
+Added Net: Name=NetIC3_CO3_3
+Added Pin To Net: NetName=NetIC3_CO3_9 Pin=IC3_CO3-9
+Added Net: Name=NetIC3_CO3_9
+Added Pin To Net: NetName=NetIC3_CO3_10 Pin=IC3_CO3-10
+Added Net: Name=NetIC3_CO3_10
+Added Pin To Net: NetName=NetIC3_CO4_1 Pin=IC3_CO4-1
+Added Net: Name=NetIC3_CO4_1
+Added Pin To Net: NetName=NetIC3_CO4_2 Pin=IC3_CO4-2
+Added Net: Name=NetIC3_CO4_2
+Added Pin To Net: NetName=NetIC3_CO4_3 Pin=IC3_CO4-3
+Added Pin To Net: NetName=NetIC3_CO4_3 Pin=IC3_CO4-7
+Added Pin To Net: NetName=NetIC3_CO4_3 Pin=IC3_CO4-11
+Added Pin To Net: NetName=NetIC3_CO4_3 Pin=IC3_CO4-15
+Added Net: Name=NetIC3_CO4_3
+Added Pin To Net: NetName=NetIC3_CO4_9 Pin=IC3_CO4-9
+Added Net: Name=NetIC3_CO4_9
+Added Pin To Net: NetName=NetIC3_CO4_10 Pin=IC3_CO4-10
+Added Net: Name=NetIC3_CO4_10
+Added Pin To Net: NetName=NetIC3_CO5_1 Pin=IC3_CO5-1
+Added Net: Name=NetIC3_CO5_1
+Added Pin To Net: NetName=NetIC3_CO5_2 Pin=IC3_CO5-2
+Added Net: Name=NetIC3_CO5_2
+Added Pin To Net: NetName=NetIC3_CO5_3 Pin=IC3_CO5-3
+Added Pin To Net: NetName=NetIC3_CO5_3 Pin=IC3_CO5-7
+Added Pin To Net: NetName=NetIC3_CO5_3 Pin=IC3_CO5-11
+Added Pin To Net: NetName=NetIC3_CO5_3 Pin=IC3_CO5-15
+Added Net: Name=NetIC3_CO5_3
+Added Pin To Net: NetName=NetIC3_CO5_9 Pin=IC3_CO5-9
+Added Net: Name=NetIC3_CO5_9
+Added Pin To Net: NetName=NetIC3_CO5_10 Pin=IC3_CO5-10
+Added Net: Name=NetIC3_CO5_10
+Added Pin To Net: NetName=NetIC3_CO6_1 Pin=IC3_CO6-1
+Added Net: Name=NetIC3_CO6_1
+Added Pin To Net: NetName=NetIC3_CO6_2 Pin=IC3_CO6-2
+Added Net: Name=NetIC3_CO6_2
+Added Pin To Net: NetName=NetIC3_CO6_3 Pin=IC3_CO6-3
+Added Pin To Net: NetName=NetIC3_CO6_3 Pin=IC3_CO6-7
+Added Pin To Net: NetName=NetIC3_CO6_3 Pin=IC3_CO6-11
+Added Pin To Net: NetName=NetIC3_CO6_3 Pin=IC3_CO6-15
+Added Net: Name=NetIC3_CO6_3
+Added Pin To Net: NetName=NetIC3_CO6_9 Pin=IC3_CO6-9
+Added Net: Name=NetIC3_CO6_9
+Added Pin To Net: NetName=NetIC3_CO6_10 Pin=IC3_CO6-10
+Added Net: Name=NetIC3_CO6_10
+Added Pin To Net: NetName=NetIC3_CO7_1 Pin=IC3_CO7-1
+Added Net: Name=NetIC3_CO7_1
+Added Pin To Net: NetName=NetIC3_CO7_2 Pin=IC3_CO7-2
+Added Net: Name=NetIC3_CO7_2
+Added Pin To Net: NetName=NetIC3_CO7_3 Pin=IC3_CO7-3
+Added Pin To Net: NetName=NetIC3_CO7_3 Pin=IC3_CO7-7
+Added Pin To Net: NetName=NetIC3_CO7_3 Pin=IC3_CO7-11
+Added Pin To Net: NetName=NetIC3_CO7_3 Pin=IC3_CO7-15
+Added Net: Name=NetIC3_CO7_3
+Added Pin To Net: NetName=NetIC3_CO7_9 Pin=IC3_CO7-9
+Added Net: Name=NetIC3_CO7_9
+Added Pin To Net: NetName=NetIC3_CO7_10 Pin=IC3_CO7-10
+Added Net: Name=NetIC3_CO7_10
+Added Pin To Net: NetName=NetIC3_CO8_1 Pin=IC3_CO8-1
+Added Net: Name=NetIC3_CO8_1
+Added Pin To Net: NetName=NetIC3_CO8_2 Pin=IC3_CO8-2
+Added Net: Name=NetIC3_CO8_2
+Added Pin To Net: NetName=NetIC3_CO8_3 Pin=IC3_CO8-3
+Added Pin To Net: NetName=NetIC3_CO8_3 Pin=IC3_CO8-7
+Added Pin To Net: NetName=NetIC3_CO8_3 Pin=IC3_CO8-11
+Added Pin To Net: NetName=NetIC3_CO8_3 Pin=IC3_CO8-15
+Added Net: Name=NetIC3_CO8_3
+Added Pin To Net: NetName=NetIC3_CO8_9 Pin=IC3_CO8-9
+Added Net: Name=NetIC3_CO8_9
+Added Pin To Net: NetName=NetIC3_CO8_10 Pin=IC3_CO8-10
+Added Net: Name=NetIC3_CO8_10
+Added Member To Class: ClassName=CO1 Member=Component C3_CO1 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO2 Member=Component C3_CO2 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO3 Member=Component C3_CO3 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO4 Member=Component C3_CO4 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO5 Member=Component C3_CO5 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO6 Member=Component C3_CO6 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO7 Member=Component C3_CO7 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO8 Member=Component C3_CO8 (C3) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO1 Member=Component C4_CO1 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO2 Member=Component C4_CO2 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO3 Member=Component C4_CO3 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO4 Member=Component C4_CO4 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO5 Member=Component C4_CO5 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO6 Member=Component C4_CO6 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO7 Member=Component C4_CO7 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO8 Member=Component C4_CO8 (C4) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO1 Member=Component C5_CO1 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO2 Member=Component C5_CO2 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO3 Member=Component C5_CO3 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO4 Member=Component C5_CO4 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO5 Member=Component C5_CO5 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO6 Member=Component C5_CO6 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO7 Member=Component C5_CO7 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO8 Member=Component C5_CO8 (C5) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO1 Member=Component C6_CO1 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO2 Member=Component C6_CO2 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO3 Member=Component C6_CO3 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO4 Member=Component C6_CO4 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO5 Member=Component C6_CO5 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO6 Member=Component C6_CO6 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO7 Member=Component C6_CO7 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO8 Member=Component C6_CO8 (C6) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO1 Member=Component IC2_CO1 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO2 Member=Component IC2_CO2 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO3 Member=Component IC2_CO3 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO4 Member=Component IC2_CO4 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO5 Member=Component IC2_CO5 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO6 Member=Component IC2_CO6 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO7 Member=Component IC2_CO7 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO8 Member=Component IC2_CO8 (IC2) OPA4202IDR
+Added Member To Class: ClassName=CO1 Member=Component IC3_CO1 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO2 Member=Component IC3_CO2 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO3 Member=Component IC3_CO3 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO4 Member=Component IC3_CO4 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO5 Member=Component IC3_CO5 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO6 Member=Component IC3_CO6 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO7 Member=Component IC3_CO7 (IC3) CD4043BDR
+Added Member To Class: ClassName=CO8 Member=Component IC3_CO8 (IC3) CD4043BDR

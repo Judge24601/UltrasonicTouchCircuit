@@ -1,0 +1,48 @@
+Added Pin To Net: NetName=+5 Pin=C1_CO1-2
+Added Pin To Net: NetName=+5 Pin=C1_CO2-2
+Added Pin To Net: NetName=+5 Pin=C1_CO3-2
+Added Pin To Net: NetName=+5 Pin=C1_CO4-2
+Added Pin To Net: NetName=+5 Pin=C1_CO5-2
+Added Pin To Net: NetName=+5 Pin=C1_CO6-2
+Added Pin To Net: NetName=+5 Pin=C1_CO7-2
+Added Pin To Net: NetName=+5 Pin=C1_CO8-2
+Added Pin To Net: NetName=+5 Pin=C3_CO1-2
+Added Pin To Net: NetName=+5 Pin=C3_CO2-2
+Added Pin To Net: NetName=+5 Pin=C3_CO3-2
+Added Pin To Net: NetName=+5 Pin=C3_CO4-2
+Added Pin To Net: NetName=+5 Pin=C3_CO5-2
+Added Pin To Net: NetName=+5 Pin=C3_CO6-2
+Added Pin To Net: NetName=+5 Pin=C3_CO7-2
+Added Pin To Net: NetName=+5 Pin=C3_CO8-2
+Added Pin To Net: NetName=+5 Pin=IC1_CO1-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO1-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO2-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO2-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO3-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO3-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO4-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO4-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO5-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO5-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO6-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO6-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO7-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO7-12
+Added Pin To Net: NetName=+5 Pin=IC1_CO8-6
+Added Pin To Net: NetName=+5 Pin=IC1_CO8-12
+Added Member To Class: ClassName=CO1 Member=Component C1_CO1 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO2 Member=Component C1_CO2 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO3 Member=Component C1_CO3 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO4 Member=Component C1_CO4 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO5 Member=Component C1_CO5 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO6 Member=Component C1_CO6 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO7 Member=Component C1_CO7 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO8 Member=Component C1_CO8 (C1) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO1 Member=Component C2_CO1 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO2 Member=Component C2_CO2 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO3 Member=Component C2_CO3 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO4 Member=Component C2_CO4 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO5 Member=Component C2_CO5 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO6 Member=Component C2_CO6 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO7 Member=Component C2_CO7 (C2) CC0805ZRY5V9BB104
+Added Member To Class: ClassName=CO8 Member=Component C2_CO8 (C2) CC0805ZRY5V9BB104
