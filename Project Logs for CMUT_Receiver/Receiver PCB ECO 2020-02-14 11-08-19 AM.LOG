@@ -1,0 +1,928 @@
+Removed Pin From Net: NetName=GND Pin=IC2_CO1-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO1-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO1-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO1-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO2-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO2-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO2-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO2-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO3-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO3-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO3-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO3-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO4-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO4-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO4-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO4-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO5-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO5-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO5-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO5-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO6-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO6-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO6-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO6-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO7-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO7-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO7-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO7-13
+Removed Pin From Net: NetName=GND Pin=IC2_CO8-2
+Removed Pin From Net: NetName=GND Pin=IC2_CO8-6
+Removed Pin From Net: NetName=GND Pin=IC2_CO8-9
+Removed Pin From Net: NetName=GND Pin=IC2_CO8-13
+Added Component: Designator=R13_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R17_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R18_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R19_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO1(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO2(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO3(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO4(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO5(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO6(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO7(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Component: Designator=R20_CO8(RESC2012X60N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6181408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6181408"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13_CO1-1
+Added Pin To Net: NetName=GND Pin=R13_CO2-1
+Added Pin To Net: NetName=GND Pin=R13_CO3-1
+Added Pin To Net: NetName=GND Pin=R13_CO4-1
+Added Pin To Net: NetName=GND Pin=R13_CO5-1
+Added Pin To Net: NetName=GND Pin=R13_CO6-1
+Added Pin To Net: NetName=GND Pin=R13_CO7-1
+Added Pin To Net: NetName=GND Pin=R13_CO8-1
+Added Pin To Net: NetName=GND Pin=R14_CO1-2
+Added Pin To Net: NetName=GND Pin=R14_CO2-2
+Added Pin To Net: NetName=GND Pin=R14_CO3-2
+Added Pin To Net: NetName=GND Pin=R14_CO4-2
+Added Pin To Net: NetName=GND Pin=R14_CO5-2
+Added Pin To Net: NetName=GND Pin=R14_CO6-2
+Added Pin To Net: NetName=GND Pin=R14_CO7-2
+Added Pin To Net: NetName=GND Pin=R14_CO8-2
+Added Pin To Net: NetName=GND Pin=R15_CO1-2
+Added Pin To Net: NetName=GND Pin=R15_CO2-2
+Added Pin To Net: NetName=GND Pin=R15_CO3-2
+Added Pin To Net: NetName=GND Pin=R15_CO4-2
+Added Pin To Net: NetName=GND Pin=R15_CO5-2
+Added Pin To Net: NetName=GND Pin=R15_CO6-2
+Added Pin To Net: NetName=GND Pin=R15_CO7-2
+Added Pin To Net: NetName=GND Pin=R15_CO8-2
+Added Pin To Net: NetName=GND Pin=R16_CO1-1
+Added Pin To Net: NetName=GND Pin=R16_CO2-1
+Added Pin To Net: NetName=GND Pin=R16_CO3-1
+Added Pin To Net: NetName=GND Pin=R16_CO4-1
+Added Pin To Net: NetName=GND Pin=R16_CO5-1
+Added Pin To Net: NetName=GND Pin=R16_CO6-1
+Added Pin To Net: NetName=GND Pin=R16_CO7-1
+Added Pin To Net: NetName=GND Pin=R16_CO8-1
+Added Pin To Net: NetName=AMP_A_CO1 Pin=R17_CO1-1
+Added Pin To Net: NetName=GND Pin=R17_CO1-2
+Added Pin To Net: NetName=AMP_A_CO2 Pin=R17_CO2-1
+Added Pin To Net: NetName=GND Pin=R17_CO2-2
+Added Pin To Net: NetName=AMP_A_CO3 Pin=R17_CO3-1
+Added Pin To Net: NetName=GND Pin=R17_CO3-2
+Added Pin To Net: NetName=AMP_A_CO4 Pin=R17_CO4-1
+Added Pin To Net: NetName=GND Pin=R17_CO4-2
+Added Pin To Net: NetName=AMP_A_CO5 Pin=R17_CO5-1
+Added Pin To Net: NetName=GND Pin=R17_CO5-2
+Added Pin To Net: NetName=AMP_A_CO6 Pin=R17_CO6-1
+Added Pin To Net: NetName=GND Pin=R17_CO6-2
+Added Pin To Net: NetName=AMP_A_CO7 Pin=R17_CO7-1
+Added Pin To Net: NetName=GND Pin=R17_CO7-2
+Added Pin To Net: NetName=AMP_A_CO8 Pin=R17_CO8-1
+Added Pin To Net: NetName=GND Pin=R17_CO8-2
+Added Pin To Net: NetName=GND Pin=R18_CO1-1
+Added Pin To Net: NetName=AMP_B_CO1 Pin=R18_CO1-2
+Added Pin To Net: NetName=GND Pin=R18_CO2-1
+Added Pin To Net: NetName=AMP_B_CO2 Pin=R18_CO2-2
+Added Pin To Net: NetName=GND Pin=R18_CO3-1
+Added Pin To Net: NetName=AMP_B_CO3 Pin=R18_CO3-2
+Added Pin To Net: NetName=GND Pin=R18_CO4-1
+Added Pin To Net: NetName=AMP_B_CO4 Pin=R18_CO4-2
+Added Pin To Net: NetName=GND Pin=R18_CO5-1
+Added Pin To Net: NetName=AMP_B_CO5 Pin=R18_CO5-2
+Added Pin To Net: NetName=GND Pin=R18_CO6-1
+Added Pin To Net: NetName=AMP_B_CO6 Pin=R18_CO6-2
+Added Pin To Net: NetName=GND Pin=R18_CO7-1
+Added Pin To Net: NetName=AMP_B_CO7 Pin=R18_CO7-2
+Added Pin To Net: NetName=GND Pin=R18_CO8-1
+Added Pin To Net: NetName=AMP_B_CO8 Pin=R18_CO8-2
+Added Pin To Net: NetName=AMP_C_CO1 Pin=R19_CO1-1
+Added Pin To Net: NetName=GND Pin=R19_CO1-2
+Added Pin To Net: NetName=AMP_C_CO2 Pin=R19_CO2-1
+Added Pin To Net: NetName=GND Pin=R19_CO2-2
+Added Pin To Net: NetName=AMP_C_CO3 Pin=R19_CO3-1
+Added Pin To Net: NetName=GND Pin=R19_CO3-2
+Added Pin To Net: NetName=AMP_C_CO4 Pin=R19_CO4-1
+Added Pin To Net: NetName=GND Pin=R19_CO4-2
+Added Pin To Net: NetName=AMP_C_CO5 Pin=R19_CO5-1
+Added Pin To Net: NetName=GND Pin=R19_CO5-2
+Added Pin To Net: NetName=AMP_C_CO6 Pin=R19_CO6-1
+Added Pin To Net: NetName=GND Pin=R19_CO6-2
+Added Pin To Net: NetName=AMP_C_CO7 Pin=R19_CO7-1
+Added Pin To Net: NetName=GND Pin=R19_CO7-2
+Added Pin To Net: NetName=AMP_C_CO8 Pin=R19_CO8-1
+Added Pin To Net: NetName=GND Pin=R19_CO8-2
+Added Pin To Net: NetName=AMP_D_CO1 Pin=R20_CO1-1
+Added Pin To Net: NetName=GND Pin=R20_CO1-2
+Added Pin To Net: NetName=AMP_D_CO2 Pin=R20_CO2-1
+Added Pin To Net: NetName=GND Pin=R20_CO2-2
+Added Pin To Net: NetName=AMP_D_CO3 Pin=R20_CO3-1
+Added Pin To Net: NetName=GND Pin=R20_CO3-2
+Added Pin To Net: NetName=AMP_D_CO4 Pin=R20_CO4-1
+Added Pin To Net: NetName=GND Pin=R20_CO4-2
+Added Pin To Net: NetName=AMP_D_CO5 Pin=R20_CO5-1
+Added Pin To Net: NetName=GND Pin=R20_CO5-2
+Added Pin To Net: NetName=AMP_D_CO6 Pin=R20_CO6-1
+Added Pin To Net: NetName=GND Pin=R20_CO6-2
+Added Pin To Net: NetName=AMP_D_CO7 Pin=R20_CO7-1
+Added Pin To Net: NetName=GND Pin=R20_CO7-2
+Added Pin To Net: NetName=AMP_D_CO8 Pin=R20_CO8-1
+Added Pin To Net: NetName=GND Pin=R20_CO8-2
+Added Pin To Net: NetName=NetIC2_CO1_2 Pin=IC2_CO1-2
+Added Pin To Net: NetName=NetIC2_CO1_2 Pin=R13_CO1-2
+Added Net: Name=NetIC2_CO1_2
+Added Pin To Net: NetName=NetIC2_CO1_6 Pin=IC2_CO1-6
+Added Pin To Net: NetName=NetIC2_CO1_6 Pin=R14_CO1-1
+Added Net: Name=NetIC2_CO1_6
+Added Pin To Net: NetName=NetIC2_CO1_9 Pin=IC2_CO1-9
+Added Pin To Net: NetName=NetIC2_CO1_9 Pin=R15_CO1-1
+Added Net: Name=NetIC2_CO1_9
+Added Pin To Net: NetName=NetIC2_CO1_13 Pin=IC2_CO1-13
+Added Pin To Net: NetName=NetIC2_CO1_13 Pin=R16_CO1-2
+Added Net: Name=NetIC2_CO1_13
+Added Pin To Net: NetName=NetIC2_CO2_2 Pin=IC2_CO2-2
+Added Pin To Net: NetName=NetIC2_CO2_2 Pin=R13_CO2-2
+Added Net: Name=NetIC2_CO2_2
+Added Pin To Net: NetName=NetIC2_CO2_6 Pin=IC2_CO2-6
+Added Pin To Net: NetName=NetIC2_CO2_6 Pin=R14_CO2-1
+Added Net: Name=NetIC2_CO2_6
+Added Pin To Net: NetName=NetIC2_CO2_9 Pin=IC2_CO2-9
+Added Pin To Net: NetName=NetIC2_CO2_9 Pin=R15_CO2-1
+Added Net: Name=NetIC2_CO2_9
+Added Pin To Net: NetName=NetIC2_CO2_13 Pin=IC2_CO2-13
+Added Pin To Net: NetName=NetIC2_CO2_13 Pin=R16_CO2-2
+Added Net: Name=NetIC2_CO2_13
+Added Pin To Net: NetName=NetIC2_CO3_2 Pin=IC2_CO3-2
+Added Pin To Net: NetName=NetIC2_CO3_2 Pin=R13_CO3-2
+Added Net: Name=NetIC2_CO3_2
+Added Pin To Net: NetName=NetIC2_CO3_6 Pin=IC2_CO3-6
+Added Pin To Net: NetName=NetIC2_CO3_6 Pin=R14_CO3-1
+Added Net: Name=NetIC2_CO3_6
+Added Pin To Net: NetName=NetIC2_CO3_9 Pin=IC2_CO3-9
+Added Pin To Net: NetName=NetIC2_CO3_9 Pin=R15_CO3-1
+Added Net: Name=NetIC2_CO3_9
+Added Pin To Net: NetName=NetIC2_CO3_13 Pin=IC2_CO3-13
+Added Pin To Net: NetName=NetIC2_CO3_13 Pin=R16_CO3-2
+Added Net: Name=NetIC2_CO3_13
+Added Pin To Net: NetName=NetIC2_CO4_2 Pin=IC2_CO4-2
+Added Pin To Net: NetName=NetIC2_CO4_2 Pin=R13_CO4-2
+Added Net: Name=NetIC2_CO4_2
+Added Pin To Net: NetName=NetIC2_CO4_6 Pin=IC2_CO4-6
+Added Pin To Net: NetName=NetIC2_CO4_6 Pin=R14_CO4-1
+Added Net: Name=NetIC2_CO4_6
+Added Pin To Net: NetName=NetIC2_CO4_9 Pin=IC2_CO4-9
+Added Pin To Net: NetName=NetIC2_CO4_9 Pin=R15_CO4-1
+Added Net: Name=NetIC2_CO4_9
+Added Pin To Net: NetName=NetIC2_CO4_13 Pin=IC2_CO4-13
+Added Pin To Net: NetName=NetIC2_CO4_13 Pin=R16_CO4-2
+Added Net: Name=NetIC2_CO4_13
+Added Pin To Net: NetName=NetIC2_CO5_2 Pin=IC2_CO5-2
+Added Pin To Net: NetName=NetIC2_CO5_2 Pin=R13_CO5-2
+Added Net: Name=NetIC2_CO5_2
+Added Pin To Net: NetName=NetIC2_CO5_6 Pin=IC2_CO5-6
+Added Pin To Net: NetName=NetIC2_CO5_6 Pin=R14_CO5-1
+Added Net: Name=NetIC2_CO5_6
+Added Pin To Net: NetName=NetIC2_CO5_9 Pin=IC2_CO5-9
+Added Pin To Net: NetName=NetIC2_CO5_9 Pin=R15_CO5-1
+Added Net: Name=NetIC2_CO5_9
+Added Pin To Net: NetName=NetIC2_CO5_13 Pin=IC2_CO5-13
+Added Pin To Net: NetName=NetIC2_CO5_13 Pin=R16_CO5-2
+Added Net: Name=NetIC2_CO5_13
+Added Pin To Net: NetName=NetIC2_CO6_2 Pin=IC2_CO6-2
+Added Pin To Net: NetName=NetIC2_CO6_2 Pin=R13_CO6-2
+Added Net: Name=NetIC2_CO6_2
+Added Pin To Net: NetName=NetIC2_CO6_6 Pin=IC2_CO6-6
+Added Pin To Net: NetName=NetIC2_CO6_6 Pin=R14_CO6-1
+Added Net: Name=NetIC2_CO6_6
+Added Pin To Net: NetName=NetIC2_CO6_9 Pin=IC2_CO6-9
+Added Pin To Net: NetName=NetIC2_CO6_9 Pin=R15_CO6-1
+Added Net: Name=NetIC2_CO6_9
+Added Pin To Net: NetName=NetIC2_CO6_13 Pin=IC2_CO6-13
+Added Pin To Net: NetName=NetIC2_CO6_13 Pin=R16_CO6-2
+Added Net: Name=NetIC2_CO6_13
+Added Pin To Net: NetName=NetIC2_CO7_2 Pin=IC2_CO7-2
+Added Pin To Net: NetName=NetIC2_CO7_2 Pin=R13_CO7-2
+Added Net: Name=NetIC2_CO7_2
+Added Pin To Net: NetName=NetIC2_CO7_6 Pin=IC2_CO7-6
+Added Pin To Net: NetName=NetIC2_CO7_6 Pin=R14_CO7-1
+Added Net: Name=NetIC2_CO7_6
+Added Pin To Net: NetName=NetIC2_CO7_9 Pin=IC2_CO7-9
+Added Pin To Net: NetName=NetIC2_CO7_9 Pin=R15_CO7-1
+Added Net: Name=NetIC2_CO7_9
+Added Pin To Net: NetName=NetIC2_CO7_13 Pin=IC2_CO7-13
+Added Pin To Net: NetName=NetIC2_CO7_13 Pin=R16_CO7-2
+Added Net: Name=NetIC2_CO7_13
+Added Pin To Net: NetName=NetIC2_CO8_2 Pin=IC2_CO8-2
+Added Pin To Net: NetName=NetIC2_CO8_2 Pin=R13_CO8-2
+Added Net: Name=NetIC2_CO8_2
+Added Pin To Net: NetName=NetIC2_CO8_6 Pin=IC2_CO8-6
+Added Pin To Net: NetName=NetIC2_CO8_6 Pin=R14_CO8-1
+Added Net: Name=NetIC2_CO8_6
+Added Pin To Net: NetName=NetIC2_CO8_9 Pin=IC2_CO8-9
+Added Pin To Net: NetName=NetIC2_CO8_9 Pin=R15_CO8-1
+Added Net: Name=NetIC2_CO8_9
+Added Pin To Net: NetName=NetIC2_CO8_13 Pin=IC2_CO8-13
+Added Pin To Net: NetName=NetIC2_CO8_13 Pin=R16_CO8-2
+Added Net: Name=NetIC2_CO8_13
+Added Member To Class: ClassName=CO1 Member=Component R13_CO1 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO2 Member=Component R13_CO2 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO3 Member=Component R13_CO3 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO4 Member=Component R13_CO4 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO5 Member=Component R13_CO5 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO6 Member=Component R13_CO6 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO7 Member=Component R13_CO7 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO8 Member=Component R13_CO8 (R13) RC0805JR-071KL
+Added Member To Class: ClassName=CO1 Member=Component R14_CO1 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO2 Member=Component R14_CO2 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO3 Member=Component R14_CO3 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO4 Member=Component R14_CO4 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO5 Member=Component R14_CO5 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO6 Member=Component R14_CO6 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO7 Member=Component R14_CO7 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO8 Member=Component R14_CO8 (R14) RC0805JR-071KL
+Added Member To Class: ClassName=CO1 Member=Component R15_CO1 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO2 Member=Component R15_CO2 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO3 Member=Component R15_CO3 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO4 Member=Component R15_CO4 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO5 Member=Component R15_CO5 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO6 Member=Component R15_CO6 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO7 Member=Component R15_CO7 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO8 Member=Component R15_CO8 (R15) RC0805JR-071KL
+Added Member To Class: ClassName=CO1 Member=Component R16_CO1 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO2 Member=Component R16_CO2 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO3 Member=Component R16_CO3 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO4 Member=Component R16_CO4 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO5 Member=Component R16_CO5 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO6 Member=Component R16_CO6 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO7 Member=Component R16_CO7 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO8 Member=Component R16_CO8 (R16) RC0805JR-071KL
+Added Member To Class: ClassName=CO1 Member=Component R17_CO1 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO2 Member=Component R17_CO2 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO3 Member=Component R17_CO3 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO4 Member=Component R17_CO4 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO5 Member=Component R17_CO5 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO6 Member=Component R17_CO6 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO7 Member=Component R17_CO7 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO8 Member=Component R17_CO8 (R17) RC0805FR-074K7L
+Added Member To Class: ClassName=CO1 Member=Component R18_CO1 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO2 Member=Component R18_CO2 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO3 Member=Component R18_CO3 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO4 Member=Component R18_CO4 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO5 Member=Component R18_CO5 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO6 Member=Component R18_CO6 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO7 Member=Component R18_CO7 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO8 Member=Component R18_CO8 (R18) RC0805FR-074K7L
+Added Member To Class: ClassName=CO1 Member=Component R19_CO1 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO2 Member=Component R19_CO2 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO3 Member=Component R19_CO3 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO4 Member=Component R19_CO4 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO5 Member=Component R19_CO5 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO6 Member=Component R19_CO6 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO7 Member=Component R19_CO7 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO8 Member=Component R19_CO8 (R19) RC0805FR-074K7L
+Added Member To Class: ClassName=CO1 Member=Component R20_CO1 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO2 Member=Component R20_CO2 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO3 Member=Component R20_CO3 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO4 Member=Component R20_CO4 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO5 Member=Component R20_CO5 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO6 Member=Component R20_CO6 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO7 Member=Component R20_CO7 (R20) RC0805FR-074K7L
+Added Member To Class: ClassName=CO8 Member=Component R20_CO8 (R20) RC0805FR-074K7L

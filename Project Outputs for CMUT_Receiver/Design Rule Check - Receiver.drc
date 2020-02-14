@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\braed\OneDrive\Documents\Capstone\CMUT_Receiver\Receiver.PcbDoc
-Date     : 2020-02-13
-Time     : 2:23:56 PM
+Date     : 2020-02-14
+Time     : 12:33:49 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -10,248 +10,50 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C3_CO7-1(2342.902mil,864.759mil) on Top Layer [Unplated] And Pad C6_CO7-2(3496.595mil,864.759mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO1-1(3800mil,5018mil) on Top Layer [Unplated] And Pad IC3_CO1-8(3892.716mil,5143.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO1-1(3800mil,5018mil) on Top Layer [Unplated] And Pad IC3_CO2-5(3892.827mil,4588.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO1-2(3500mil,5082mil) on Top Layer [Unplated] And Pad C5_CO1-2(3800mil,5082mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO1-2(3800mil,5082mil) on Top Layer [Unplated] And Pad IC3_CO2-16(4107.394mil,4788.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO2-1(3800.11mil,4312.496mil) on Top Layer [Unplated] And Pad IC3_CO2-8(3892.827mil,4438.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO2-1(3800.11mil,4312.496mil) on Top Layer [Unplated] And Pad IC3_CO3-5(3892.827mil,3890.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO2-2(3500.11mil,4376.496mil) on Top Layer [Unplated] And Pad C5_CO2-2(3800.11mil,4376.496mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO2-2(3800.11mil,4376.496mil) on Top Layer [Unplated] And Pad IC3_CO3-16(4107.394mil,4090.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO3-1(3800.11mil,3615.047mil) on Top Layer [Unplated] And Pad IC3_CO3-8(3892.827mil,3740.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO3-1(3800.11mil,3615.047mil) on Top Layer [Unplated] And Pad IC3_CO4-5(3889.312mil,3190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Via (3143.511mil,3704.803mil) from Top Layer to Bottom Layer And Pad C5_CO3-1(3800.11mil,3615.047mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO3-2(3500.11mil,3679.047mil) on Top Layer [Unplated] And Pad C5_CO3-2(3800.11mil,3679.047mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO3-2(3800.11mil,3679.047mil) on Top Layer [Unplated] And Pad IC3_CO4-16(4103.879mil,3390.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO4-1(3796.595mil,2915.047mil) on Top Layer [Unplated] And Pad IC3_CO4-8(3889.312mil,3040.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO4-1(3796.595mil,2915.047mil) on Top Layer [Unplated] And Pad IC3_CO5-5(3889.312mil,2485.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO4-2(3496.595mil,2979.047mil) on Top Layer [Unplated] And Pad C5_CO4-2(3796.595mil,2979.047mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO4-2(3796.595mil,2979.047mil) on Top Layer [Unplated] And Pad IC3_CO5-16(4103.879mil,2685.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO5-1(3796.595mil,2209.575mil) on Top Layer [Unplated] And Pad IC3_CO5-8(3889.312mil,2335.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO5-1(3796.595mil,2209.575mil) on Top Layer [Unplated] And Pad IC3_CO6-5(3889.312mil,1780.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO5-2(3496.595mil,2273.575mil) on Top Layer [Unplated] And Pad C5_CO5-2(3796.595mil,2273.575mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO5-2(3796.595mil,2273.575mil) on Top Layer [Unplated] And Pad IC3_CO6-16(4103.879mil,1980.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO6-1(3796.595mil,1504.102mil) on Top Layer [Unplated] And Pad IC3_CO6-8(3889.312mil,1630.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO6-1(3796.595mil,1504.102mil) on Top Layer [Unplated] And Pad IC3_CO7-5(3889.312mil,1076.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO6-2(3496.595mil,1568.102mil) on Top Layer [Unplated] And Pad C5_CO6-2(3796.595mil,1568.102mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO6-2(3796.595mil,1568.102mil) on Top Layer [Unplated] And Pad IC3_CO7-16(4103.879mil,1276.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO7-1(3796.595mil,800.759mil) on Top Layer [Unplated] And Pad IC3_CO7-8(3889.312mil,926.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO7-1(3796.595mil,800.759mil) on Top Layer [Unplated] And Pad IC3_CO8-5(3889.312mil,374.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO8-2(3796.595mil,162.085mil) on Top Layer [Unplated] And Pad C5_CO7-2(3796.595mil,864.759mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO7-2(3496.595mil,864.759mil) on Top Layer [Unplated] And Pad C5_CO7-2(3796.595mil,864.759mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5_CO7-2(3796.595mil,864.759mil) on Top Layer [Unplated] And Pad IC3_CO8-16(4103.879mil,574.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad C5_CO8-1(3796.595mil,98.085mil) on Top Layer [Unplated] And Pad IC3_CO8-8(3889.312mil,224.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6_CO8-2(3496.595mil,162.085mil) on Top Layer [Unplated] And Pad C5_CO8-2(3796.595mil,162.085mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO1-1(3500mil,5018mil) on Top Layer [Unplated] And Pad C6_CO2-1(3500.11mil,4312.496mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO3-1(3500.11mil,3615.047mil) on Top Layer [Unplated] And Pad C6_CO2-1(3500.11mil,4312.496mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO4-1(3496.595mil,2915.047mil) on Top Layer [Unplated] And Pad C6_CO3-1(3500.11mil,3615.047mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO3-1(3500.11mil,3615.047mil) on Top Layer [Unplated] And Pad IC2_CO4-11(4636.832mil,3340.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO5-1(3496.595mil,2209.575mil) on Top Layer [Unplated] And Pad C6_CO4-1(3496.595mil,2915.047mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO6-1(3496.595mil,1504.102mil) on Top Layer [Unplated] And Pad C6_CO5-1(3496.595mil,2209.575mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC1_CO5-9(2455.563mil,2427.559mil) on Top Layer [Unplated] And Pad C6_CO5-1(3496.595mil,2209.575mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO7-1(3496.595mil,800.759mil) on Top Layer [Unplated] And Pad C6_CO6-1(3496.595mil,1504.102mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad C6_CO8-1(3496.595mil,98.085mil) on Top Layer [Unplated] And Pad C6_CO7-1(3496.595mil,800.759mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO1-24(2690.307mil,5440.709mil) on Top Layer [Unplated] And Track (2743.518mil,5300.785mil)(2743.831mil,5300.472mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO2-24(2690.417mil,4735.205mil) on Top Layer [Unplated] And Track (2743.942mil,4594.968mil)(2762.535mil,4594.968mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO3-24(2690.417mil,4037.756mil) on Top Layer [Unplated] And Track (2743.628mil,3897.833mil)(2743.942mil,3897.519mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO4-24(2686.902mil,3337.756mil) on Top Layer [Unplated] And Track (2740.113mil,3197.833mil)(2740.427mil,3197.519mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO5-24(2686.902mil,2632.284mil) on Top Layer [Unplated] And Track (2740.113mil,2492.36mil)(2740.427mil,2492.047mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO6-24(2686.902mil,1926.811mil) on Top Layer [Unplated] And Track (2740.113mil,1786.888mil)(2740.427mil,1786.574mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO7-24(2686.902mil,1223.468mil) on Top Layer [Unplated] And Track (2740.113mil,1083.544mil)(2740.427mil,1083.231mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC1_CO8-24(2686.902mil,520.794mil) on Top Layer [Unplated] And Track (2740.427mil,380.557mil)(2759.02mil,380.557mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO1 Between Via (2374.637mil,5435.236mil) from Top Layer to Bottom Layer And Pad IC2_CO1-1(4359.764mil,5593.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_10 Between Pad P1-27(1215mil,4350mil) on Multi-Layer And Pad IC2_CO1-10(4640.236mil,5393.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO1-11(4640.236mil,5443.945mil) on Top Layer [Unplated] And Pad IC2_CO2-11(4640.346mil,4738.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_12 Between Pad P1-25(1215mil,4250mil) on Multi-Layer And Pad IC2_CO1-12(4640.236mil,5493.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO1-2(4359.764mil,5543.945mil) on Top Layer [Unplated] And Pad IC2_CO1-13(4640.236mil,5543.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO1-9(4640.236mil,5343.945mil) on Top Layer [Unplated] And Pad IC2_CO1-13(4640.236mil,5543.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO1 Between Via (2374.637mil,5165.236mil) from Top Layer to Bottom Layer And Pad IC2_CO1-14(4640.236mil,5593.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO1-6(4359.764mil,5343.945mil) on Top Layer [Unplated] And Pad IC2_CO1-2(4359.764mil,5543.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO1-16(4107.283mil,5493.945mil) on Top Layer [Unplated] And Pad IC2_CO1-2(4359.764mil,5543.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_3 Between Pad P1-31(1215mil,4550mil) on Multi-Layer And Pad IC2_CO1-3(4359.764mil,5493.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO1-5(3892.716mil,5293.945mil) on Top Layer [Unplated] And Pad IC2_CO1-4(4359.764mil,5443.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_5 Between Pad P1-29(1215mil,4450mil) on Multi-Layer And Pad IC2_CO1-5(4359.764mil,5393.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO1-6(4359.764mil,5343.945mil) on Top Layer [Unplated] And Pad IC2_CO2-2(4359.874mil,4838.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO1 Between Via (2376.401mil,5343.756mil) from Top Layer to Bottom Layer And Pad IC2_CO1-7(4359.764mil,5293.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO1 Between Via (2376.197mil,5254.717mil) from Top Layer to Bottom Layer And Pad IC2_CO1-8(4640.236mil,5293.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO2 Between Via (2374.747mil,4729.733mil) from Top Layer to Bottom Layer And Pad IC2_CO2-1(4359.874mil,4888.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_10 Between Pad P1-19(1215mil,3950mil) on Multi-Layer And Pad IC2_CO2-10(4640.346mil,4688.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO3-11(4640.346mil,4040.992mil) on Top Layer [Unplated] And Pad IC2_CO2-11(4640.346mil,4738.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_12 Between Pad P1-17(1215mil,3850mil) on Multi-Layer And Pad IC2_CO2-12(4640.346mil,4788.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO2-9(4640.346mil,4638.441mil) on Top Layer [Unplated] And Pad IC2_CO2-13(4640.346mil,4838.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO2 Between Via (2374.747mil,4459.733mil) from Top Layer to Bottom Layer And Pad IC2_CO2-14(4640.346mil,4888.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO2-6(4359.874mil,4638.441mil) on Top Layer [Unplated] And Pad IC2_CO2-2(4359.874mil,4838.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO2-16(4107.394mil,4788.441mil) on Top Layer [Unplated] And Pad IC2_CO2-2(4359.874mil,4838.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_3 Between Pad P1-23(1215mil,4150mil) on Multi-Layer And Pad IC2_CO2-3(4359.874mil,4788.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO2-5(3892.827mil,4588.441mil) on Top Layer [Unplated] And Pad IC2_CO2-4(4359.874mil,4738.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_5 Between Pad P1-21(1215mil,4050mil) on Multi-Layer And Pad IC2_CO2-5(4359.874mil,4688.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO2-6(4359.874mil,4638.441mil) on Top Layer [Unplated] And Pad IC2_CO2-9(4640.346mil,4638.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO3-2(4359.874mil,4140.992mil) on Top Layer [Unplated] And Pad IC2_CO2-6(4359.874mil,4638.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO2 Between Via (2376.511mil,4638.252mil) from Top Layer to Bottom Layer And Pad IC2_CO2-7(4359.874mil,4588.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO2 Between Via (2376.307mil,4549.213mil) from Top Layer to Bottom Layer And Pad IC2_CO2-8(4640.346mil,4588.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO3 Between Via (2374.747mil,4032.284mil) from Top Layer to Bottom Layer And Pad IC2_CO3-1(4359.874mil,4190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_10 Between Pad P1-11(1215mil,3550mil) on Multi-Layer And Pad IC2_CO3-10(4640.346mil,3990.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO4-11(4636.832mil,3340.992mil) on Top Layer [Unplated] And Pad IC2_CO3-11(4640.346mil,4040.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_12 Between Pad P1-9(1215mil,3450mil) on Multi-Layer And Pad IC2_CO3-12(4640.346mil,4090.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO3-9(4640.346mil,3940.992mil) on Top Layer [Unplated] And Pad IC2_CO3-13(4640.346mil,4140.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO3 Between Via (2374.747mil,3762.284mil) from Top Layer to Bottom Layer And Pad IC2_CO3-14(4640.346mil,4190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO3-6(4359.874mil,3940.992mil) on Top Layer [Unplated] And Pad IC2_CO3-2(4359.874mil,4140.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO3-16(4107.394mil,4090.992mil) on Top Layer [Unplated] And Pad IC2_CO3-2(4359.874mil,4140.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_3 Between Pad P1-15(1215mil,3750mil) on Multi-Layer And Pad IC2_CO3-3(4359.874mil,4090.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO3-5(3892.827mil,3890.992mil) on Top Layer [Unplated] And Pad IC2_CO3-4(4359.874mil,4040.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_5 Between Pad P1-13(1215mil,3650mil) on Multi-Layer And Pad IC2_CO3-5(4359.874mil,3990.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO3-6(4359.874mil,3940.992mil) on Top Layer [Unplated] And Pad IC2_CO3-9(4640.346mil,3940.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO3 Between Via (2376.511mil,3940.803mil) from Top Layer to Bottom Layer And Pad IC2_CO3-7(4359.874mil,3890.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO3 Between Via (2376.307mil,3851.764mil) from Top Layer to Bottom Layer And Pad IC2_CO3-8(4640.346mil,3890.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO4-13(4636.832mil,3440.992mil) on Top Layer [Unplated] And Pad IC2_CO3-9(4640.346mil,3940.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO4 Between Via (2371.233mil,3332.284mil) from Top Layer to Bottom Layer And Pad IC2_CO4-1(4356.359mil,3490.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_10 Between Pad P1-3(1215mil,3150mil) on Multi-Layer And Pad IC2_CO4-10(4636.832mil,3290.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO5-11(4636.832mil,2635.52mil) on Top Layer [Unplated] And Pad IC2_CO4-11(4636.832mil,3340.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_12 Between Pad P1-1(1215mil,3050mil) on Multi-Layer And Pad IC2_CO4-12(4636.832mil,3390.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO4-2(4356.359mil,3440.992mil) on Top Layer [Unplated] And Pad IC2_CO4-13(4636.832mil,3440.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO4-9(4636.832mil,3240.992mil) on Top Layer [Unplated] And Pad IC2_CO4-13(4636.832mil,3440.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO4 Between Via (2371.233mil,3062.284mil) from Top Layer to Bottom Layer And Pad IC2_CO4-14(4636.832mil,3490.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO4-6(4356.359mil,3240.992mil) on Top Layer [Unplated] And Pad IC2_CO4-2(4356.359mil,3440.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO4-16(4103.879mil,3390.992mil) on Top Layer [Unplated] And Pad IC2_CO4-2(4356.359mil,3440.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_3 Between Pad P1-7(1215mil,3350mil) on Multi-Layer And Pad IC2_CO4-3(4356.359mil,3390.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO4-5(3889.312mil,3190.992mil) on Top Layer [Unplated] And Pad IC2_CO4-4(4356.359mil,3340.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_5 Between Pad P1-5(1215mil,3250mil) on Multi-Layer And Pad IC2_CO4-5(4356.359mil,3290.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO5-2(4356.359mil,2735.52mil) on Top Layer [Unplated] And Pad IC2_CO4-6(4356.359mil,3240.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO4 Between Via (2372.997mil,3240.803mil) from Top Layer to Bottom Layer And Pad IC2_CO4-7(4356.359mil,3190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO4 Between Via (2372.792mil,3151.764mil) from Top Layer to Bottom Layer And Pad IC2_CO4-8(4636.832mil,3190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO5 Between Via (2371.233mil,2626.811mil) from Top Layer to Bottom Layer And Pad IC2_CO5-1(4356.359mil,2785.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_10 Between Pad P2-27(1215mil,2445mil) on Multi-Layer And Pad IC2_CO5-10(4636.832mil,2585.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO6-11(4636.832mil,1930.048mil) on Top Layer [Unplated] And Pad IC2_CO5-11(4636.832mil,2635.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_12 Between Pad P2-25(1215mil,2345mil) on Multi-Layer And Pad IC2_CO5-12(4636.832mil,2685.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO5-9(4636.832mil,2535.52mil) on Top Layer [Unplated] And Pad IC2_CO5-13(4636.832mil,2735.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO5 Between Via (2371.233mil,2356.811mil) from Top Layer to Bottom Layer And Pad IC2_CO5-14(4636.832mil,2785.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO5-6(4356.359mil,2535.52mil) on Top Layer [Unplated] And Pad IC2_CO5-2(4356.359mil,2735.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO5-16(4103.879mil,2685.52mil) on Top Layer [Unplated] And Pad IC2_CO5-2(4356.359mil,2735.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_3 Between Pad P2-31(1215mil,2645mil) on Multi-Layer And Pad IC2_CO5-3(4356.359mil,2685.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO5-5(3889.312mil,2485.52mil) on Top Layer [Unplated] And Pad IC2_CO5-4(4356.359mil,2635.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_5 Between Pad P2-29(1215mil,2545mil) on Multi-Layer And Pad IC2_CO5-5(4356.359mil,2585.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO5-6(4356.359mil,2535.52mil) on Top Layer [Unplated] And Pad IC2_CO5-9(4636.832mil,2535.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO6-2(4356.359mil,2030.048mil) on Top Layer [Unplated] And Pad IC2_CO5-6(4356.359mil,2535.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO5 Between Via (2372.997mil,2535.331mil) from Top Layer to Bottom Layer And Pad IC2_CO5-7(4356.359mil,2485.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO5 Between Via (2372.792mil,2446.292mil) from Top Layer to Bottom Layer And Pad IC2_CO5-8(4636.832mil,2485.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO6 Between Via (2371.233mil,1921.339mil) from Top Layer to Bottom Layer And Pad IC2_CO6-1(4356.359mil,2080.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_10 Between Pad P2-19(1215mil,2045mil) on Multi-Layer And Pad IC2_CO6-10(4636.832mil,1880.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO7-11(4636.832mil,1226.704mil) on Top Layer [Unplated] And Pad IC2_CO6-11(4636.832mil,1930.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_12 Between Pad P2-17(1215mil,1945mil) on Multi-Layer And Pad IC2_CO6-12(4636.832mil,1980.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO6-2(4356.359mil,2030.048mil) on Top Layer [Unplated] And Pad IC2_CO6-13(4636.832mil,2030.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO6-9(4636.832mil,1830.048mil) on Top Layer [Unplated] And Pad IC2_CO6-13(4636.832mil,2030.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO6 Between Via (2371.233mil,1651.339mil) from Top Layer to Bottom Layer And Pad IC2_CO6-14(4636.832mil,2080.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO6-6(4356.359mil,1830.048mil) on Top Layer [Unplated] And Pad IC2_CO6-2(4356.359mil,2030.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO6-16(4103.879mil,1980.048mil) on Top Layer [Unplated] And Pad IC2_CO6-2(4356.359mil,2030.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_3 Between Pad P2-23(1215mil,2245mil) on Multi-Layer And Pad IC2_CO6-3(4356.359mil,1980.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO6-5(3889.312mil,1780.048mil) on Top Layer [Unplated] And Pad IC2_CO6-4(4356.359mil,1930.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_5 Between Pad P2-21(1215mil,2145mil) on Multi-Layer And Pad IC2_CO6-5(4356.359mil,1880.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO6 Between Via (2372.997mil,1829.859mil) from Top Layer to Bottom Layer And Pad IC2_CO6-7(4356.359mil,1780.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO6 Between Via (2372.792mil,1740.82mil) from Top Layer to Bottom Layer And Pad IC2_CO6-8(4636.832mil,1780.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO7-13(4636.832mil,1326.704mil) on Top Layer [Unplated] And Pad IC2_CO6-9(4636.832mil,1830.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO7 Between Via (2371.233mil,1217.996mil) from Top Layer to Bottom Layer And Pad IC2_CO7-1(4356.359mil,1376.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_10 Between Pad P2-11(1215mil,1645mil) on Multi-Layer And Pad IC2_CO7-10(4636.832mil,1176.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad IC2_CO8-11(4636.832mil,524.03mil) on Top Layer [Unplated] And Pad IC2_CO7-11(4636.832mil,1226.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_12 Between Pad P2-9(1215mil,1545mil) on Multi-Layer And Pad IC2_CO7-12(4636.832mil,1276.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO7-2(4356.359mil,1326.704mil) on Top Layer [Unplated] And Pad IC2_CO7-13(4636.832mil,1326.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO7-9(4636.832mil,1126.704mil) on Top Layer [Unplated] And Pad IC2_CO7-13(4636.832mil,1326.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO7 Between Via (2371.233mil,947.996mil) from Top Layer to Bottom Layer And Pad IC2_CO7-14(4636.832mil,1376.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO7-6(4356.359mil,1126.704mil) on Top Layer [Unplated] And Pad IC2_CO7-2(4356.359mil,1326.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO7-16(4103.879mil,1276.704mil) on Top Layer [Unplated] And Pad IC2_CO7-2(4356.359mil,1326.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_3 Between Pad P2-15(1215mil,1845mil) on Multi-Layer And Pad IC2_CO7-3(4356.359mil,1276.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO7-5(3889.312mil,1076.704mil) on Top Layer [Unplated] And Pad IC2_CO7-4(4356.359mil,1226.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_5 Between Pad P2-13(1215mil,1745mil) on Multi-Layer And Pad IC2_CO7-5(4356.359mil,1176.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO7 Between Via (2372.997mil,1126.515mil) from Top Layer to Bottom Layer And Pad IC2_CO7-7(4356.359mil,1076.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO7 Between Via (2372.792mil,1037.476mil) from Top Layer to Bottom Layer And Pad IC2_CO7-8(4636.832mil,1076.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO8-13(4636.832mil,624.03mil) on Top Layer [Unplated] And Pad IC2_CO7-9(4636.832mil,1126.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_A_CO8 Between Via (2371.233mil,515.321mil) from Top Layer to Bottom Layer And Pad IC2_CO8-1(4356.359mil,674.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_10 Between Pad P2-3(1215mil,1245mil) on Multi-Layer And Pad IC2_CO8-10(4636.832mil,474.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_12 Between Pad P2-1(1215mil,1145mil) on Multi-Layer And Pad IC2_CO8-12(4636.832mil,574.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO8-2(4356.359mil,624.03mil) on Top Layer [Unplated] And Pad IC2_CO8-13(4636.832mil,624.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO8-9(4636.832mil,424.03mil) on Top Layer [Unplated] And Pad IC2_CO8-13(4636.832mil,624.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_D_CO8 Between Via (2371.233mil,245.321mil) from Top Layer to Bottom Layer And Pad IC2_CO8-14(4636.832mil,674.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC2_CO8-6(4356.359mil,424.03mil) on Top Layer [Unplated] And Pad IC2_CO8-2(4356.359mil,624.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad IC3_CO8-16(4103.879mil,574.03mil) on Top Layer [Unplated] And Pad IC2_CO8-2(4356.359mil,624.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_3 Between Pad P2-7(1215mil,1445mil) on Multi-Layer And Pad IC2_CO8-3(4356.359mil,574.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO8-5(3889.312mil,374.03mil) on Top Layer [Unplated] And Pad IC2_CO8-4(4356.359mil,524.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_5 Between Pad P2-5(1215mil,1345mil) on Multi-Layer And Pad IC2_CO8-5(4356.359mil,474.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_B_CO8 Between Via (2372.997mil,423.841mil) from Top Layer to Bottom Layer And Pad IC2_CO8-7(4356.359mil,374.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net AMP_C_CO8 Between Via (2372.792mil,334.802mil) from Top Layer to Bottom Layer And Pad IC2_CO8-8(4636.832mil,374.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO1_3 Between Pad IC3_CO1-11(4107.283mil,5243.945mil) on Top Layer [Unplated] And Pad IC3_CO1-15(4107.283mil,5443.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO1_7 Between Track (2897.503mil,5254.717mil)(3181.512mil,5254.717mil) on Top Layer And Pad IC3_CO1-12(4107.283mil,5293.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO1_10 Between Track (2882.771mil,5157.008mil)(3033.519mil,5157.008mil) on Top Layer And Pad IC3_CO1-14(4107.283mil,5393.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO1_3 Between Pad IC3_CO1-3(3892.716mil,5393.945mil) on Top Layer [Unplated] And Pad IC3_CO1-15(4107.283mil,5443.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO1_3 Between Pad IC3_CO1-7(3892.716mil,5193.945mil) on Top Layer [Unplated] And Pad IC3_CO1-3(3892.716mil,5393.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO1_1 Between Track (2882.771mil,5447.756mil)(3042.141mil,5447.756mil) on Top Layer And Pad IC3_CO1-4(3892.716mil,5343.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO1-8(3892.716mil,5143.945mil) on Top Layer [Unplated] And Pad IC3_CO1-5(3892.716mil,5293.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO1_4 Between Track (3184.543mil,5338.347mil)(3193.401mil,5338.347mil) on Top Layer And Pad IC3_CO1-6(3892.716mil,5243.945mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO2_3 Between Pad IC3_CO2-11(4107.394mil,4538.441mil) on Top Layer [Unplated] And Pad IC3_CO2-15(4107.394mil,4738.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO2_7 Between Track (2897.614mil,4549.213mil)(3181.622mil,4549.213mil) on Top Layer And Pad IC3_CO2-12(4107.394mil,4588.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO2_10 Between Track (2882.881mil,4451.504mil)(3033.629mil,4451.504mil) on Top Layer And Pad IC3_CO2-14(4107.394mil,4688.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO2_3 Between Pad IC3_CO2-3(3892.827mil,4688.441mil) on Top Layer [Unplated] And Pad IC3_CO2-15(4107.394mil,4738.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO2_3 Between Pad IC3_CO2-7(3892.827mil,4488.441mil) on Top Layer [Unplated] And Pad IC3_CO2-3(3892.827mil,4688.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO2_1 Between Track (2882.881mil,4742.252mil)(3042.251mil,4742.252mil) on Top Layer And Pad IC3_CO2-4(3892.827mil,4638.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO2-8(3892.827mil,4438.441mil) on Top Layer [Unplated] And Pad IC3_CO2-5(3892.827mil,4588.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO2_4 Between Track (3184.653mil,4632.843mil)(3193.511mil,4632.843mil) on Top Layer And Pad IC3_CO2-6(3892.827mil,4538.441mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO3_3 Between Pad IC3_CO3-11(4107.394mil,3840.992mil) on Top Layer [Unplated] And Pad IC3_CO3-15(4107.394mil,4040.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO3_7 Between Track (2897.614mil,3851.764mil)(3181.622mil,3851.764mil) on Top Layer And Pad IC3_CO3-12(4107.394mil,3890.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO3_10 Between Track (2882.881mil,3754.055mil)(3033.629mil,3754.055mil) on Top Layer And Pad IC3_CO3-14(4107.394mil,3990.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO3_3 Between Pad IC3_CO3-3(3892.827mil,3990.992mil) on Top Layer [Unplated] And Pad IC3_CO3-15(4107.394mil,4040.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO3_3 Between Pad IC3_CO3-7(3892.827mil,3790.992mil) on Top Layer [Unplated] And Pad IC3_CO3-3(3892.827mil,3990.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO3_1 Between Track (2882.881mil,4044.803mil)(3042.251mil,4044.803mil) on Top Layer And Pad IC3_CO3-4(3892.827mil,3940.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO3-8(3892.827mil,3740.992mil) on Top Layer [Unplated] And Pad IC3_CO3-5(3892.827mil,3890.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO3_4 Between Track (3184.653mil,3935.394mil)(3193.511mil,3935.394mil) on Top Layer And Pad IC3_CO3-6(3892.827mil,3840.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO4_3 Between Pad IC3_CO4-11(4103.879mil,3140.992mil) on Top Layer [Unplated] And Pad IC3_CO4-15(4103.879mil,3340.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO4_7 Between Track (2894.099mil,3151.764mil)(3178.107mil,3151.764mil) on Top Layer And Pad IC3_CO4-12(4103.879mil,3190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO4_10 Between Track (2879.367mil,3054.055mil)(3030.115mil,3054.055mil) on Top Layer And Pad IC3_CO4-14(4103.879mil,3290.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO4_3 Between Pad IC3_CO4-3(3889.312mil,3290.992mil) on Top Layer [Unplated] And Pad IC3_CO4-15(4103.879mil,3340.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO4_3 Between Pad IC3_CO4-7(3889.312mil,3090.992mil) on Top Layer [Unplated] And Pad IC3_CO4-3(3889.312mil,3290.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO4_1 Between Track (2879.367mil,3344.803mil)(3038.737mil,3344.803mil) on Top Layer And Pad IC3_CO4-4(3889.312mil,3240.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO4-8(3889.312mil,3040.992mil) on Top Layer [Unplated] And Pad IC3_CO4-5(3889.312mil,3190.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO4_4 Between Track (3181.138mil,3235.394mil)(3189.997mil,3235.394mil) on Top Layer And Pad IC3_CO4-6(3889.312mil,3140.992mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO5_3 Between Pad IC3_CO5-11(4103.879mil,2435.52mil) on Top Layer [Unplated] And Pad IC3_CO5-15(4103.879mil,2635.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO5_7 Between Track (2894.099mil,2446.292mil)(3178.107mil,2446.292mil) on Top Layer And Pad IC3_CO5-12(4103.879mil,2485.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO5_10 Between Track (2879.367mil,2348.583mil)(3030.115mil,2348.583mil) on Top Layer And Pad IC3_CO5-14(4103.879mil,2585.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO5_3 Between Pad IC3_CO5-3(3889.312mil,2585.52mil) on Top Layer [Unplated] And Pad IC3_CO5-15(4103.879mil,2635.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO5_3 Between Pad IC3_CO5-7(3889.312mil,2385.52mil) on Top Layer [Unplated] And Pad IC3_CO5-3(3889.312mil,2585.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO5_1 Between Track (2879.367mil,2639.331mil)(3038.737mil,2639.331mil) on Top Layer And Pad IC3_CO5-4(3889.312mil,2535.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO5-8(3889.312mil,2335.52mil) on Top Layer [Unplated] And Pad IC3_CO5-5(3889.312mil,2485.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO5_4 Between Track (3181.138mil,2529.921mil)(3189.997mil,2529.921mil) on Top Layer And Pad IC3_CO5-6(3889.312mil,2435.52mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO6_3 Between Pad IC3_CO6-11(4103.879mil,1730.048mil) on Top Layer [Unplated] And Pad IC3_CO6-15(4103.879mil,1930.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO6_7 Between Track (2894.099mil,1740.82mil)(3178.107mil,1740.82mil) on Top Layer And Pad IC3_CO6-12(4103.879mil,1780.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO6_10 Between Track (2879.367mil,1643.111mil)(3030.115mil,1643.111mil) on Top Layer And Pad IC3_CO6-14(4103.879mil,1880.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO6_3 Between Pad IC3_CO6-3(3889.312mil,1880.048mil) on Top Layer [Unplated] And Pad IC3_CO6-15(4103.879mil,1930.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO6_3 Between Pad IC3_CO6-7(3889.312mil,1680.048mil) on Top Layer [Unplated] And Pad IC3_CO6-3(3889.312mil,1880.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO6_1 Between Track (2879.367mil,1933.859mil)(3038.737mil,1933.859mil) on Top Layer And Pad IC3_CO6-4(3889.312mil,1830.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO6-8(3889.312mil,1630.048mil) on Top Layer [Unplated] And Pad IC3_CO6-5(3889.312mil,1780.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO6_4 Between Track (3181.138mil,1824.449mil)(3189.997mil,1824.449mil) on Top Layer And Pad IC3_CO6-6(3889.312mil,1730.048mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO7_3 Between Pad IC3_CO7-11(4103.879mil,1026.704mil) on Top Layer [Unplated] And Pad IC3_CO7-15(4103.879mil,1226.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO7_7 Between Track (2894.099mil,1037.476mil)(3178.107mil,1037.476mil) on Top Layer And Pad IC3_CO7-12(4103.879mil,1076.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO7_10 Between Track (2879.367mil,939.767mil)(3030.115mil,939.767mil) on Top Layer And Pad IC3_CO7-14(4103.879mil,1176.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO7_3 Between Pad IC3_CO7-3(3889.312mil,1176.704mil) on Top Layer [Unplated] And Pad IC3_CO7-15(4103.879mil,1226.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO7_3 Between Pad IC3_CO7-7(3889.312mil,976.704mil) on Top Layer [Unplated] And Pad IC3_CO7-3(3889.312mil,1176.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO7_1 Between Track (2879.367mil,1230.515mil)(3038.737mil,1230.515mil) on Top Layer And Pad IC3_CO7-4(3889.312mil,1126.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO7-8(3889.312mil,926.704mil) on Top Layer [Unplated] And Pad IC3_CO7-5(3889.312mil,1076.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO7_4 Between Track (3181.138mil,1121.106mil)(3189.997mil,1121.106mil) on Top Layer And Pad IC3_CO7-6(3889.312mil,1026.704mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO8_3 Between Pad IC3_CO8-11(4103.879mil,324.03mil) on Top Layer [Unplated] And Pad IC3_CO8-15(4103.879mil,524.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO8_7 Between Track (2894.099mil,334.802mil)(3178.107mil,334.802mil) on Top Layer And Pad IC3_CO8-12(4103.879mil,374.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO8_10 Between Track (2879.367mil,237.093mil)(3030.115mil,237.093mil) on Top Layer And Pad IC3_CO8-14(4103.879mil,474.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO8_3 Between Pad IC3_CO8-3(3889.312mil,474.03mil) on Top Layer [Unplated] And Pad IC3_CO8-15(4103.879mil,524.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC3_CO8_3 Between Pad IC3_CO8-7(3889.312mil,274.03mil) on Top Layer [Unplated] And Pad IC3_CO8-3(3889.312mil,474.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO8_1 Between Track (2879.367mil,527.841mil)(3038.737mil,527.841mil) on Top Layer And Pad IC3_CO8-4(3889.312mil,424.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad IC3_CO8-8(3889.312mil,224.03mil) on Top Layer [Unplated] And Pad IC3_CO8-5(3889.312mil,374.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC1_CO8_4 Between Track (3181.138mil,418.432mil)(3189.997mil,418.432mil) on Top Layer And Pad IC3_CO8-6(3889.312mil,324.03mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Pad Power-3(1410mil,4830mil) on Multi-Layer And Via (2222.354mil,4800.011mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO7_1 Between Track (2061.233mil,939.767mil)(2061.233mil,1034.728mil) on Top Layer And Track (2061.233mil,1130.515mil)(2061.233mil,1230.515mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO6_1 Between Track (2061.233mil,1643.111mil)(2061.233mil,1738.071mil) on Top Layer And Track (2061.233mil,1833.859mil)(2061.233mil,1933.859mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO5_1 Between Track (2061.233mil,2348.583mil)(2061.233mil,2443.544mil) on Top Layer And Track (2061.233mil,2539.331mil)(2061.233mil,2639.331mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO8_1 Between Track (2061.233mil,237.093mil)(2061.233mil,332.054mil) on Top Layer And Track (2061.233mil,427.841mil)(2061.233mil,527.841mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO4_1 Between Track (2061.233mil,3054.055mil)(2061.233mil,3149.016mil) on Top Layer And Track (2061.233mil,3244.803mil)(2061.233mil,3344.803mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO1_1 Between Track (2064.637mil,5157.008mil)(2064.637mil,5251.969mil) on Top Layer And Track (2064.637mil,5347.756mil)(2064.637mil,5447.756mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO3_1 Between Track (2064.747mil,3754.055mil)(2064.747mil,3849.016mil) on Top Layer And Track (2064.747mil,3944.803mil)(2064.747mil,4044.803mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO2_1 Between Track (2064.747mil,4451.504mil)(2064.747mil,4546.465mil) on Top Layer And Track (2064.747mil,4642.252mil)(2064.747mil,4742.252mil) on Top Layer 
-Rule Violations :241
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_10 Between Pad P1-27(1215mil,4350mil) on Multi-Layer And Pad IC2_CO1-10(2530.472mil,5270mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_12 Between Pad P1-25(1215mil,4250mil) on Multi-Layer And Pad IC2_CO1-12(2530.472mil,5370mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_3 Between Pad P1-31(1215mil,4550mil) on Multi-Layer And Pad IC2_CO1-3(2250mil,5370mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_5 Between Pad P1-29(1215mil,4450mil) on Multi-Layer And Pad IC2_CO1-5(2250mil,5270mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_10 Between Pad P1-19(1215mil,3950mil) on Multi-Layer And Pad IC2_CO2-10(2530.889mil,4565.205mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net -5 Between Track (1749.223mil,4830mil)(1860mil,4940.777mil) on Bottom Layer And Pad IC2_CO2-11(2530.889mil,4615.205mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_12 Between Pad P1-17(1215mil,3850mil) on Multi-Layer And Pad IC2_CO2-12(2530.889mil,4665.205mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_3 Between Pad P1-23(1215mil,4150mil) on Multi-Layer And Pad IC2_CO2-3(2250.417mil,4665.205mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_5 Between Pad P1-21(1215mil,4050mil) on Multi-Layer And Pad IC2_CO2-5(2250.417mil,4565.205mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_10 Between Pad P1-11(1215mil,3550mil) on Multi-Layer And Pad IC2_CO3-10(2530.889mil,3867.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_12 Between Pad P1-9(1215mil,3450mil) on Multi-Layer And Pad IC2_CO3-12(2530.889mil,3967.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_3 Between Pad P1-15(1215mil,3750mil) on Multi-Layer And Pad IC2_CO3-3(2250.417mil,3967.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_5 Between Pad P1-13(1215mil,3650mil) on Multi-Layer And Pad IC2_CO3-5(2250.417mil,3867.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_10 Between Pad P1-3(1215mil,3150mil) on Multi-Layer And Pad IC2_CO4-10(2527.374mil,3167.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_12 Between Pad P1-1(1215mil,3050mil) on Multi-Layer And Pad IC2_CO4-12(2527.374mil,3267.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_3 Between Pad P1-7(1215mil,3350mil) on Multi-Layer And Pad IC2_CO4-3(2246.902mil,3267.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_5 Between Pad P1-5(1215mil,3250mil) on Multi-Layer And Pad IC2_CO4-5(2246.902mil,3167.756mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_10 Between Pad P2-27(1215mil,2445mil) on Multi-Layer And Pad IC2_CO5-10(2527.374mil,2462.284mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_12 Between Pad P2-25(1215mil,2345mil) on Multi-Layer And Pad IC2_CO5-12(2527.374mil,2562.284mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_3 Between Pad P2-31(1215mil,2645mil) on Multi-Layer And Pad IC2_CO5-3(2246.902mil,2562.284mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_5 Between Pad P2-29(1215mil,2545mil) on Multi-Layer And Pad IC2_CO5-5(2246.902mil,2462.284mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_10 Between Pad P2-19(1215mil,2045mil) on Multi-Layer And Pad IC2_CO6-10(2527.374mil,1756.811mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_12 Between Pad P2-17(1215mil,1945mil) on Multi-Layer And Pad IC2_CO6-12(2527.374mil,1856.811mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_3 Between Pad P2-23(1215mil,2245mil) on Multi-Layer And Pad IC2_CO6-3(2246.902mil,1856.811mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_5 Between Pad P2-21(1215mil,2145mil) on Multi-Layer And Pad IC2_CO6-5(2246.902mil,1756.811mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_10 Between Pad P2-11(1215mil,1645mil) on Multi-Layer And Pad IC2_CO7-10(2527.374mil,1053.468mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_12 Between Pad P2-9(1215mil,1545mil) on Multi-Layer And Pad IC2_CO7-12(2527.374mil,1153.468mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_3 Between Pad P2-15(1215mil,1845mil) on Multi-Layer And Pad IC2_CO7-3(2246.902mil,1153.468mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_5 Between Pad P2-13(1215mil,1745mil) on Multi-Layer And Pad IC2_CO7-5(2246.902mil,1053.468mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_10 Between Pad P2-3(1215mil,1245mil) on Multi-Layer And Pad IC2_CO8-10(2527.374mil,350.794mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_12 Between Pad P2-1(1215mil,1145mil) on Multi-Layer And Pad IC2_CO8-12(2527.374mil,450.794mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_3 Between Pad P2-7(1215mil,1445mil) on Multi-Layer And Pad IC2_CO8-3(2246.902mil,450.794mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_5 Between Pad P2-5(1215mil,1345mil) on Multi-Layer And Pad IC2_CO8-5(2246.902mil,350.794mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO7_1 Between Track (3291.107mil,929.468mil)(3291.107mil,1024.429mil) on Top Layer And Track (3291.107mil,1120.216mil)(3291.107mil,1220.216mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO6_1 Between Track (3291.107mil,1632.812mil)(3291.107mil,1727.772mil) on Top Layer And Track (3291.107mil,1823.56mil)(3291.107mil,1923.56mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO8_1 Between Track (3291.107mil,226.794mil)(3291.107mil,321.755mil) on Top Layer And Track (3291.107mil,417.542mil)(3291.107mil,517.542mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO5_1 Between Track (3291.107mil,2338.284mil)(3291.107mil,2433.245mil) on Top Layer And Track (3291.107mil,2529.032mil)(3291.107mil,2629.032mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO4_1 Between Track (3291.107mil,3043.756mil)(3291.107mil,3138.717mil) on Top Layer And Track (3291.107mil,3234.504mil)(3291.107mil,3334.504mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO1_1 Between Track (3294.205mil,5146mil)(3294.205mil,5240.961mil) on Top Layer And Track (3294.205mil,5336.748mil)(3294.205mil,5436.748mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO3_1 Between Track (3294.622mil,3743.756mil)(3294.622mil,3838.717mil) on Top Layer And Track (3294.622mil,3934.504mil)(3294.622mil,4034.504mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_CO2_1 Between Track (3294.622mil,4441.205mil)(3294.622mil,4536.166mil) on Top Layer And Track (3294.622mil,4631.953mil)(3294.622mil,4731.953mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net -5 Between Track (3521.107mil,297.022mil)(3569.107mil,297.022mil) on Top Layer And Track (3569.107mil,466.542mil)(3569.107mil,466.888mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net -5 Between Track (3572.205mil,5385.748mil)(3572.205mil,5386.095mil) on Top Layer And Track (3572.205mil,5216.229mil)(3579.505mil,5216.229mil) on Top Layer 
+Rule Violations :43
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -269,140 +71,21 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO1-2(2294.637mil,5319.575mil) on Top Layer And Via (2223.401mil,5299.961mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO2-2(2294.747mil,4614.071mil) on Top Layer And Via (2223.511mil,4594.457mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO3-2(2294.747mil,3916.622mil) on Top Layer And Via (2223.511mil,3897.008mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO4-2(2291.233mil,3216.622mil) on Top Layer And Via (2219.997mil,3197.008mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO5-2(2291.233mil,2511.15mil) on Top Layer And Via (2219.997mil,2491.536mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO6-2(2291.233mil,1805.678mil) on Top Layer And Via (2219.997mil,1786.063mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO7-2(2291.233mil,1102.334mil) on Top Layer And Via (2219.997mil,1082.72mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C1_CO8-2(2291.233mil,399.66mil) on Top Layer And Via (2219.997mil,380.046mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO1-1(2290.057mil,5449.126mil) on Top Layer And Via (2222.244mil,5415.118mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO1-2(2290.057mil,5513.126mil) on Top Layer And Via (2222.244mil,5505.515mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO2-1(2290.167mil,4743.622mil) on Top Layer And Via (2222.354mil,4709.614mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO2-2(2290.167mil,4807.622mil) on Top Layer And Via (2222.354mil,4800.011mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO3-1(2290.167mil,4046.174mil) on Top Layer And Via (2222.354mil,4012.166mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO3-2(2290.167mil,4110.174mil) on Top Layer And Via (2222.354mil,4102.562mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO4-1(2286.652mil,3346.174mil) on Top Layer And Via (2218.839mil,3312.166mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO4-2(2286.652mil,3410.174mil) on Top Layer And Via (2218.839mil,3402.562mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO5-1(2286.652mil,2640.701mil) on Top Layer And Via (2218.839mil,2606.693mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO5-2(2286.652mil,2704.701mil) on Top Layer And Via (2218.839mil,2697.09mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO6-1(2286.652mil,1935.229mil) on Top Layer And Via (2218.839mil,1901.221mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO6-2(2286.652mil,1999.229mil) on Top Layer And Via (2218.839mil,1991.617mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO7-1(2286.652mil,1231.886mil) on Top Layer And Via (2218.839mil,1197.878mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO7-2(2286.652mil,1295.886mil) on Top Layer And Via (2218.839mil,1288.274mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.299mil < 10mil) Between Pad C2_CO8-1(2286.652mil,529.211mil) on Top Layer And Via (2218.839mil,495.203mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.313mil < 10mil) Between Pad C2_CO8-2(2286.652mil,593.211mil) on Top Layer And Via (2218.839mil,585.6mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.313mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO1-2(2294.637mil,5227.236mil) on Top Layer And Via (2223.401mil,5217.756mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO2-2(2294.747mil,4521.733mil) on Top Layer And Via (2223.511mil,4512.252mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO3-2(2294.747mil,3824.284mil) on Top Layer And Via (2223.511mil,3814.803mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO4-2(2291.233mil,3124.284mil) on Top Layer And Via (2219.997mil,3114.803mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO5-2(2291.233mil,2418.811mil) on Top Layer And Via (2219.997mil,2409.331mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO6-2(2291.233mil,1713.339mil) on Top Layer And Via (2219.997mil,1703.859mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO7-2(2291.233mil,1009.996mil) on Top Layer And Via (2219.997mil,1000.515mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.736mil < 10mil) Between Pad C4_CO8-2(2291.233mil,307.321mil) on Top Layer And Via (2219.997mil,297.841mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.736mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO1-1(2821.26mil,5254.717mil) on Top Layer And Via (2762.425mil,5300.472mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO2-1(2821.37mil,4549.213mil) on Top Layer And Via (2762.535mil,4594.968mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO3-1(2821.37mil,3851.764mil) on Top Layer And Via (2762.535mil,3897.519mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO4-1(2817.855mil,3151.764mil) on Top Layer And Via (2759.02mil,3197.519mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO5-1(2817.855mil,2446.292mil) on Top Layer And Via (2759.02mil,2492.047mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO6-1(2817.855mil,1740.82mil) on Top Layer And Via (2759.02mil,1786.574mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO7-1(2817.855mil,1037.476mil) on Top Layer And Via (2759.02mil,1083.231mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.823mil < 10mil) Between Pad R6_CO8-1(2817.855mil,334.802mil) on Top Layer And Via (2759.02mil,380.557mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.823mil]
-Rule Violations :40
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO1-7(3892.716mil,5193.945mil) on Top Layer And Text "C5_CO1" (3773.5mil,5136.5mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO1-8(3892.716mil,5143.945mil) on Top Layer And Text "C5_CO1" (3773.5mil,5136.5mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO2-7(3892.827mil,4488.441mil) on Top Layer And Text "C5_CO2" (3773.61mil,4430.996mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO2-8(3892.827mil,4438.441mil) on Top Layer And Text "C5_CO2" (3773.61mil,4430.996mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO3-7(3892.827mil,3790.992mil) on Top Layer And Text "C5_CO3" (3773.61mil,3733.547mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO3-8(3892.827mil,3740.992mil) on Top Layer And Text "C5_CO3" (3773.61mil,3733.547mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO4-7(3889.312mil,3090.992mil) on Top Layer And Text "C5_CO4" (3770.095mil,3033.547mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO4-8(3889.312mil,3040.992mil) on Top Layer And Text "C5_CO4" (3770.095mil,3033.547mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO5-7(3889.312mil,2385.52mil) on Top Layer And Text "C5_CO5" (3770.095mil,2328.075mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO5-8(3889.312mil,2335.52mil) on Top Layer And Text "C5_CO5" (3770.095mil,2328.075mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO6-7(3889.312mil,1680.048mil) on Top Layer And Text "C5_CO6" (3770.095mil,1622.602mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO6-8(3889.312mil,1630.048mil) on Top Layer And Text "C5_CO6" (3770.095mil,1622.602mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO7-7(3889.312mil,976.704mil) on Top Layer And Text "C5_CO7" (3770.095mil,919.259mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO7-8(3889.312mil,926.704mil) on Top Layer And Text "C5_CO7" (3770.095mil,919.259mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.678mil < 6mil) Between Pad IC3_CO8-7(3889.312mil,274.03mil) on Top Layer And Text "C5_CO8" (3770.095mil,216.585mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.678mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad IC3_CO8-8(3889.312mil,224.03mil) on Top Layer And Text "C5_CO8" (3770.095mil,216.585mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.177mil < 6mil) Between Pad R10_CO1-1(3193.401mil,5338.347mil) on Top Layer And Text "R4_CO1" (2949.401mil,5327.756mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.177mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO2-1(3193.511mil,4632.843mil) on Top Layer And Text "R4_CO2" (2949.511mil,4622.252mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO3-1(3193.511mil,3935.394mil) on Top Layer And Text "R4_CO3" (2949.511mil,3924.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO4-1(3189.997mil,3235.394mil) on Top Layer And Text "R4_CO4" (2945.996mil,3224.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO5-1(3189.997mil,2529.921mil) on Top Layer And Text "R4_CO5" (2945.996mil,2519.331mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO6-1(3189.997mil,1824.449mil) on Top Layer And Text "R4_CO6" (2945.996mil,1813.859mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO7-1(3189.997mil,1121.106mil) on Top Layer And Text "R4_CO7" (2945.996mil,1110.515mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R10_CO8-1(3189.997mil,418.432mil) on Top Layer And Text "R4_CO8" (2945.996mil,407.841mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO1-2(3193.401mil,5266.606mil) on Top Layer And Text "R6_CO1" (2950.63mil,5247.756mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO2-2(3193.511mil,4561.103mil) on Top Layer And Text "R6_CO2" (2950.74mil,4542.252mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO3-2(3193.511mil,3863.654mil) on Top Layer And Text "R6_CO3" (2950.74mil,3844.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO4-2(3189.997mil,3163.654mil) on Top Layer And Text "R6_CO4" (2947.225mil,3144.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO5-2(3189.997mil,2458.181mil) on Top Layer And Text "R6_CO5" (2947.225mil,2439.331mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO6-2(3189.997mil,1752.709mil) on Top Layer And Text "R6_CO6" (2947.225mil,1733.859mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO7-2(3189.997mil,1049.366mil) on Top Layer And Text "R6_CO7" (2947.225mil,1030.515mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad R11_CO8-2(3189.997mil,346.692mil) on Top Layer And Text "R6_CO8" (2947.225mil,327.841mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-Rule Violations :32
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1135mil,1045mil) on Top Overlay And Track (1065mil,1095mil)(1265mil,1095mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
    Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1135mil,2950mil) on Top Overlay And Track (1065mil,3000mil)(1265mil,3000mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
-   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "31" (1235mil,2705mil) on Top Overlay And Track (1065mil,2695mil)(1265mil,2695mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
-   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "31" (1235mil,4610mil) on Top Overlay And Track (1065mil,4600mil)(1265mil,4600mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
-   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "32" (1135mil,2705mil) on Top Overlay And Track (1065mil,2695mil)(1265mil,2695mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
-   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "32" (1135mil,4610mil) on Top Overlay And Track (1065mil,4600mil)(1265mil,4600mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO1" (2150mil,5575mil) on Top Overlay And Text "C2_CO1" (2143.488mil,5625mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO2" (2150.11mil,4869.496mil) on Top Overlay And Text "C2_CO2" (2143.598mil,4919.496mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO3" (2150.11mil,4172.047mil) on Top Overlay And Text "C2_CO3" (2143.598mil,4222.047mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO4" (2146.595mil,3472.047mil) on Top Overlay And Text "C2_CO4" (2140.083mil,3522.047mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO5" (2146.595mil,2766.575mil) on Top Overlay And Text "C2_CO5" (2140.083mil,2816.575mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO6" (2146.595mil,2061.102mil) on Top Overlay And Text "C2_CO6" (2140.083mil,2111.102mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO7" (2146.595mil,1357.759mil) on Top Overlay And Text "C2_CO7" (2140.083mil,1407.759mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (4.013mil < 10mil) Between Text "C1_CO8" (2146.595mil,655.085mil) on Top Overlay And Text "C2_CO8" (2140.083mil,705.085mil) on Top Overlay Silk Text to Silk Clearance [4.013mil]
-   Violation between Silk To Silk Clearance Constraint: (9.797mil < 10mil) Between Text "C2_CO3" (2143.598mil,4222.047mil) on Top Overlay And Text "C4_CO2" (2113.669mil,4284.496mil) on Top Overlay Silk Text to Silk Clearance [9.797mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO1" (3773.5mil,5136.5mil) on Top Overlay And Track (3937.008mil,5124.063mil)(3937.008mil,5513.827mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO1" (3773.5mil,5136.5mil) on Top Overlay And Track (3937.008mil,5124.063mil)(4062.992mil,5124.063mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO2" (3773.61mil,4430.996mil) on Top Overlay And Track (3937.118mil,4418.559mil)(3937.118mil,4808.323mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO2" (3773.61mil,4430.996mil) on Top Overlay And Track (3937.118mil,4418.559mil)(4063.102mil,4418.559mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO3" (3773.61mil,3733.547mil) on Top Overlay And Track (3937.118mil,3721.11mil)(3937.118mil,4110.874mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO3" (3773.61mil,3733.547mil) on Top Overlay And Track (3937.118mil,3721.11mil)(4063.102mil,3721.11mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO4" (3770.095mil,3033.547mil) on Top Overlay And Track (3933.603mil,3021.11mil)(3933.603mil,3410.874mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO4" (3770.095mil,3033.547mil) on Top Overlay And Track (3933.603mil,3021.11mil)(4059.588mil,3021.11mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO5" (3770.095mil,2328.075mil) on Top Overlay And Track (3933.603mil,2315.638mil)(3933.603mil,2705.402mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO5" (3770.095mil,2328.075mil) on Top Overlay And Track (3933.603mil,2315.638mil)(4059.588mil,2315.638mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO6" (3770.095mil,1622.602mil) on Top Overlay And Track (3933.603mil,1610.166mil)(3933.603mil,1999.929mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO6" (3770.095mil,1622.602mil) on Top Overlay And Track (3933.603mil,1610.166mil)(4059.588mil,1610.166mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO7" (3770.095mil,919.259mil) on Top Overlay And Track (3933.603mil,906.822mil)(3933.603mil,1296.586mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO7" (3770.095mil,919.259mil) on Top Overlay And Track (3933.603mil,906.822mil)(4059.588mil,906.822mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C5_CO8" (3770.095mil,216.585mil) on Top Overlay And Track (3933.603mil,204.148mil)(3933.603mil,593.912mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.5mil < 10mil) Between Text "C5_CO8" (3770.095mil,216.585mil) on Top Overlay And Track (3933.603mil,204.148mil)(4059.588mil,204.148mil) on Top Overlay Silk Text to Silk Clearance [5.5mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R10_CO2" (3283.511mil,4632.252mil) on Top Overlay And Text "R9_CO2" (3011.511mil,4884.882mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (2.105mil < 10mil) Between Text "R10_CO3" (3283.511mil,3934.803mil) on Top Overlay And Text "R9_CO3" (3011.511mil,4187.433mil) on Top Overlay Silk Text to Silk Clearance [2.105mil]
-   Violation between Silk To Silk Clearance Constraint: (6.084mil < 10mil) Between Text "R10_CO4" (3279.996mil,3234.803mil) on Top Overlay And Text "R9_CO4" (3007.997mil,3487.433mil) on Top Overlay Silk Text to Silk Clearance [6.084mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R10_CO5" (3279.996mil,2529.331mil) on Top Overlay And Text "R9_CO5" (3007.997mil,2781.961mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "R10_CO6" (3279.996mil,1823.859mil) on Top Overlay And Text "R9_CO6" (3007.997mil,2076.488mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (2.105mil < 10mil) Between Text "R10_CO8" (3279.997mil,417.841mil) on Top Overlay And Text "R9_CO8" (3007.997mil,670.471mil) on Top Overlay Silk Text to Silk Clearance [2.105mil]
-   Violation between Silk To Silk Clearance Constraint: (3.601mil < 10mil) Between Text "R4_CO2" (2949.511mil,4622.252mil) on Top Overlay And Track (3172.842mil,4672.213mil)(3214.181mil,4672.213mil) on Top Overlay Silk Text to Silk Clearance [3.601mil]
-   Violation between Silk To Silk Clearance Constraint: (3.601mil < 10mil) Between Text "R4_CO3" (2949.511mil,3924.803mil) on Top Overlay And Track (3172.842mil,3974.764mil)(3214.181mil,3974.764mil) on Top Overlay Silk Text to Silk Clearance [3.601mil]
-   Violation between Silk To Silk Clearance Constraint: (3.601mil < 10mil) Between Text "R4_CO4" (2945.996mil,3224.803mil) on Top Overlay And Track (3169.327mil,3274.764mil)(3210.666mil,3274.764mil) on Top Overlay Silk Text to Silk Clearance [3.601mil]
-   Violation between Silk To Silk Clearance Constraint: (3.037mil < 10mil) Between Text "R4_CO5" (2945.996mil,2519.331mil) on Top Overlay And Track (3169.327mil,2569.292mil)(3210.666mil,2569.292mil) on Top Overlay Silk Text to Silk Clearance [3.037mil]
-   Violation between Silk To Silk Clearance Constraint: (3.037mil < 10mil) Between Text "R4_CO6" (2945.996mil,1813.859mil) on Top Overlay And Track (3169.327mil,1863.819mil)(3210.666mil,1863.819mil) on Top Overlay Silk Text to Silk Clearance [3.037mil]
-   Violation between Silk To Silk Clearance Constraint: (3.037mil < 10mil) Between Text "R4_CO7" (2945.996mil,1110.515mil) on Top Overlay And Track (3169.327mil,1160.476mil)(3210.666mil,1160.476mil) on Top Overlay Silk Text to Silk Clearance [3.037mil]
-   Violation between Silk To Silk Clearance Constraint: (3.601mil < 10mil) Between Text "R4_CO8" (2945.996mil,407.841mil) on Top Overlay And Track (3169.327mil,457.802mil)(3210.666mil,457.802mil) on Top Overlay Silk Text to Silk Clearance [3.601mil]
-Rule Violations :44
+   Violation between Silk To Silk Clearance Constraint: (7.063mil < 10mil) Between Text "31" (1235mil,4615mil) on Top Overlay And Track (1065mil,4600mil)(1265mil,4600mil) on Top Overlay Silk Text to Silk Clearance [7.063mil]
+   Violation between Silk To Silk Clearance Constraint: (7.063mil < 10mil) Between Text "32" (1135mil,4615mil) on Top Overlay And Track (1065mil,4600mil)(1265mil,4600mil) on Top Overlay Silk Text to Silk Clearance [7.063mil]
+Rule Violations :4
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (2372.792mil,1037.476mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2372.792mil,1740.82mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2372.792mil,2446.292mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2372.792mil,3151.764mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2372.792mil,334.802mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2376.197mil,5254.717mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2376.307mil,3851.764mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (2376.307mil,4549.213mil) from Top Layer to Bottom Layer 
-Rule Violations :8
+   Violation between Net Antennae: Track (1749.223mil,4830mil)(1860mil,4940.777mil) on Bottom Layer 
+Rule Violations :1
 
 Processing Rule : Room CO8 (Bounding Region = (1776.902mil, 50.794mil, 5096.595mil, 750.794mil) (InComponentClass('CO8'))
 Rule Violations :0
@@ -428,13 +111,13 @@ Rule Violations :0
 Processing Rule : Room CO2 (Bounding Region = (1780.417mil, 4265.205mil, 5100.11mil, 4965.205mil) (InComponentClass('CO2'))
 Rule Violations :0
 
-Processing Rule : Room CO1 (Bounding Region = (1780.307mil, 4970.709mil, 5100mil, 5670.709mil) (InComponentClass('CO1'))
+Processing Rule : Room CO1 (Bounding Region = (1780mil, 4970mil, 5099.693mil, 5670mil) (InComponentClass('CO1'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 365
+Violations Detected : 48
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
