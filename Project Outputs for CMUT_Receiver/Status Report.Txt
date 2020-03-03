@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [CMUT_Receiver.PrjPcb]
+   Generated File[Receiver.GTO]
+   Generated File[Receiver.GTP]
+   Generated File[Receiver.GTS]
+   Generated File[Receiver.GTL]
+   Generated File[Receiver.GP1]
+   Generated File[Receiver.GP2]
+   Generated File[Receiver.GBL]
+   Generated File[Receiver.GBS]
+   Generated File[Receiver.GBP]
+   Generated File[Receiver.GBO]
+   Generated File[Receiver.GM1]
+   Generated File[Receiver.GM13]
+   Generated File[Receiver.RUL]
+   Generated File[Receiver.EXTREP]
+   Generated File[Receiver.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 11:07:24 PM On 2020-03-02
