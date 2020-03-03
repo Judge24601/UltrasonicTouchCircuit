@@ -1,0 +1,106 @@
+Added Component: Designator=P1(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(PV36W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "71024705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/bourns-pv36w104c01b00/71024705/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/pv36.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PV36W104C01B00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-PV36W104C01B00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-PV36W104C01B00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7692160P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7692160P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetIC3_CO3_2 Pin=P1-4
+Added Pin To Net: NetName=NetIC3_CO3_9 Pin=P1-5
+Added Pin To Net: NetName=NetIC3_CO3_10 Pin=P1-6
+Added Pin To Net: NetName=NetIC3_CO3_1 Pin=P1-7
+Added Pin To Net: NetName=NetIC3_CO4_2 Pin=P1-8
+Added Pin To Net: NetName=NetIC3_CO4_9 Pin=P1-9
+Added Pin To Net: NetName=NetIC3_CO4_10 Pin=P1-10
+Added Pin To Net: NetName=NetIC3_CO4_1 Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetIC3_CO1_2 Pin=P2-4
+Added Pin To Net: NetName=NetIC3_CO1_9 Pin=P2-5
+Added Pin To Net: NetName=NetIC3_CO1_10 Pin=P2-6
+Added Pin To Net: NetName=NetIC3_CO1_1 Pin=P2-7
+Added Pin To Net: NetName=NetIC3_CO2_2 Pin=P2-8
+Added Pin To Net: NetName=NetIC3_CO2_9 Pin=P2-9
+Added Pin To Net: NetName=NetIC3_CO2_10 Pin=P2-10
+Added Pin To Net: NetName=NetIC3_CO2_1 Pin=P2-11
+Added Pin To Net: NetName=+5 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetIC3_CO7_1 Pin=P3-4
+Added Pin To Net: NetName=NetIC3_CO7_10 Pin=P3-5
+Added Pin To Net: NetName=NetIC3_CO7_9 Pin=P3-6
+Added Pin To Net: NetName=NetIC3_CO7_2 Pin=P3-7
+Added Pin To Net: NetName=NetIC3_CO8_1 Pin=P3-8
+Added Pin To Net: NetName=NetIC3_CO8_10 Pin=P3-9
+Added Pin To Net: NetName=NetIC3_CO8_9 Pin=P3-10
+Added Pin To Net: NetName=NetIC3_CO8_2 Pin=P3-11
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=NetIC3_CO5_1 Pin=P4-4
+Added Pin To Net: NetName=NetIC3_CO5_10 Pin=P4-5
+Added Pin To Net: NetName=NetIC3_CO5_9 Pin=P4-6
+Added Pin To Net: NetName=NetIC3_CO5_2 Pin=P4-7
+Added Pin To Net: NetName=NetIC3_CO6_1 Pin=P4-8
+Added Pin To Net: NetName=NetIC3_CO6_10 Pin=P4-9
+Added Pin To Net: NetName=NetIC3_CO6_9 Pin=P4-10
+Added Pin To Net: NetName=NetIC3_CO6_2 Pin=P4-11
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO1-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO2-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO4-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO5-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO6-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO7-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R1_CO8-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO1-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO2-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO4-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO5-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO6-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO7-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R3_CO8-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO1-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO2-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO4-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO5-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO6-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO7-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R5_CO8-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO1-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO2-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO4-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO5-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO6-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO7-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=R7_CO8-1
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=NetR1_CO3_1 Pin=VR?-2
+Added Pin To Net: NetName=+5 Pin=VR?-3
+Change Net Name : Old Net Name=NetR1_CO3_1 New Net Name=THRESH
+Added Member To Class: ClassName=Receiver Member=Component P1 Header 14
+Added Member To Class: ClassName=Receiver Member=Component P2 Header 14
+Added Member To Class: ClassName=Receiver Member=Component P3 Header 14
+Added Member To Class: ClassName=Receiver Member=Component P4 Header 14
+Added Member To Class: ClassName=Receiver Member=Component VR? PV36W104C01B00

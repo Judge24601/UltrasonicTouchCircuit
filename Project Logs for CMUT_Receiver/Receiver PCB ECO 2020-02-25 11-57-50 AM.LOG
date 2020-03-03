@@ -1,0 +1,210 @@
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=GND Pin=P1-10
+Removed Pin From Net: NetName=GND Pin=P1-12
+Removed Pin From Net: NetName=GND Pin=P1-14
+Removed Pin From Net: NetName=GND Pin=P1-16
+Removed Pin From Net: NetName=GND Pin=P1-18
+Removed Pin From Net: NetName=GND Pin=P1-20
+Removed Pin From Net: NetName=GND Pin=P1-22
+Removed Pin From Net: NetName=GND Pin=P1-24
+Removed Pin From Net: NetName=GND Pin=P1-26
+Removed Pin From Net: NetName=GND Pin=P1-28
+Removed Pin From Net: NetName=GND Pin=P1-30
+Removed Pin From Net: NetName=GND Pin=P1-32
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P2-8
+Removed Pin From Net: NetName=GND Pin=P2-10
+Removed Pin From Net: NetName=GND Pin=P2-12
+Removed Pin From Net: NetName=GND Pin=P2-14
+Removed Pin From Net: NetName=GND Pin=P2-16
+Removed Pin From Net: NetName=GND Pin=P2-18
+Removed Pin From Net: NetName=GND Pin=P2-20
+Removed Pin From Net: NetName=GND Pin=P2-22
+Removed Pin From Net: NetName=GND Pin=P2-24
+Removed Pin From Net: NetName=GND Pin=P2-26
+Removed Pin From Net: NetName=GND Pin=P2-28
+Removed Pin From Net: NetName=GND Pin=P2-30
+Removed Pin From Net: NetName=GND Pin=P2-32
+Removed Member From Class: ClassName=Receiver Member=P1
+Removed Member From Class: ClassName=Receiver Member=P2
+Added Component: Designator=P1_CO1(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO2(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO3(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO4(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO5(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO6(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO7(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_CO8(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1_CO1-1
+Added Pin To Net: NetName=GND Pin=P1_CO1-3
+Added Pin To Net: NetName=GND Pin=P1_CO1-5
+Added Pin To Net: NetName=GND Pin=P1_CO1-7
+Added Pin To Net: NetName=GND Pin=P1_CO2-1
+Added Pin To Net: NetName=GND Pin=P1_CO2-3
+Added Pin To Net: NetName=GND Pin=P1_CO2-5
+Added Pin To Net: NetName=GND Pin=P1_CO2-7
+Added Pin To Net: NetName=GND Pin=P1_CO3-1
+Added Pin To Net: NetName=GND Pin=P1_CO3-3
+Added Pin To Net: NetName=GND Pin=P1_CO3-5
+Added Pin To Net: NetName=GND Pin=P1_CO3-7
+Added Pin To Net: NetName=GND Pin=P1_CO4-1
+Added Pin To Net: NetName=GND Pin=P1_CO4-3
+Added Pin To Net: NetName=GND Pin=P1_CO4-5
+Added Pin To Net: NetName=GND Pin=P1_CO4-7
+Added Pin To Net: NetName=GND Pin=P1_CO5-1
+Added Pin To Net: NetName=GND Pin=P1_CO5-3
+Added Pin To Net: NetName=GND Pin=P1_CO5-5
+Added Pin To Net: NetName=GND Pin=P1_CO5-7
+Added Pin To Net: NetName=GND Pin=P1_CO6-1
+Added Pin To Net: NetName=GND Pin=P1_CO6-3
+Added Pin To Net: NetName=GND Pin=P1_CO6-5
+Added Pin To Net: NetName=GND Pin=P1_CO6-7
+Added Pin To Net: NetName=GND Pin=P1_CO7-1
+Added Pin To Net: NetName=GND Pin=P1_CO7-3
+Added Pin To Net: NetName=GND Pin=P1_CO7-5
+Added Pin To Net: NetName=GND Pin=P1_CO7-7
+Added Pin To Net: NetName=GND Pin=P1_CO8-1
+Added Pin To Net: NetName=GND Pin=P1_CO8-3
+Added Pin To Net: NetName=GND Pin=P1_CO8-5
+Added Pin To Net: NetName=GND Pin=P1_CO8-7
+Added Pin To Net: NetName=RecA_CO1 Pin=IC2_CO1-3
+Added Pin To Net: NetName=RecA_CO1 Pin=P1_CO1-2
+Added Net: Name=RecA_CO1
+Added Pin To Net: NetName=RecA_CO2 Pin=IC2_CO2-3
+Added Pin To Net: NetName=RecA_CO2 Pin=P1_CO2-2
+Added Net: Name=RecA_CO2
+Added Pin To Net: NetName=RecA_CO3 Pin=IC2_CO3-3
+Added Pin To Net: NetName=RecA_CO3 Pin=P1_CO3-2
+Added Net: Name=RecA_CO3
+Added Pin To Net: NetName=RecA_CO4 Pin=IC2_CO4-3
+Added Pin To Net: NetName=RecA_CO4 Pin=P1_CO4-2
+Added Net: Name=RecA_CO4
+Added Pin To Net: NetName=RecA_CO5 Pin=IC2_CO5-3
+Added Pin To Net: NetName=RecA_CO5 Pin=P1_CO5-2
+Added Net: Name=RecA_CO5
+Added Pin To Net: NetName=RecA_CO6 Pin=IC2_CO6-3
+Added Pin To Net: NetName=RecA_CO6 Pin=P1_CO6-2
+Added Net: Name=RecA_CO6
+Added Pin To Net: NetName=RecA_CO7 Pin=IC2_CO7-3
+Added Pin To Net: NetName=RecA_CO7 Pin=P1_CO7-2
+Added Net: Name=RecA_CO7
+Added Pin To Net: NetName=RecA_CO8 Pin=IC2_CO8-3
+Added Pin To Net: NetName=RecA_CO8 Pin=P1_CO8-2
+Added Net: Name=RecA_CO8
+Added Pin To Net: NetName=RecB_CO1 Pin=IC2_CO1-5
+Added Pin To Net: NetName=RecB_CO1 Pin=P1_CO1-4
+Added Net: Name=RecB_CO1
+Added Pin To Net: NetName=RecB_CO2 Pin=IC2_CO2-5
+Added Pin To Net: NetName=RecB_CO2 Pin=P1_CO2-4
+Added Net: Name=RecB_CO2
+Added Pin To Net: NetName=RecB_CO3 Pin=IC2_CO3-5
+Added Pin To Net: NetName=RecB_CO3 Pin=P1_CO3-4
+Added Net: Name=RecB_CO3
+Added Pin To Net: NetName=RecB_CO4 Pin=IC2_CO4-5
+Added Pin To Net: NetName=RecB_CO4 Pin=P1_CO4-4
+Added Net: Name=RecB_CO4
+Added Pin To Net: NetName=RecB_CO5 Pin=IC2_CO5-5
+Added Pin To Net: NetName=RecB_CO5 Pin=P1_CO5-4
+Added Net: Name=RecB_CO5
+Added Pin To Net: NetName=RecB_CO6 Pin=IC2_CO6-5
+Added Pin To Net: NetName=RecB_CO6 Pin=P1_CO6-4
+Added Net: Name=RecB_CO6
+Added Pin To Net: NetName=RecB_CO7 Pin=IC2_CO7-5
+Added Pin To Net: NetName=RecB_CO7 Pin=P1_CO7-4
+Added Net: Name=RecB_CO7
+Added Pin To Net: NetName=RecB_CO8 Pin=IC2_CO8-5
+Added Pin To Net: NetName=RecB_CO8 Pin=P1_CO8-4
+Added Net: Name=RecB_CO8
+Added Pin To Net: NetName=RecC_CO1 Pin=IC2_CO1-10
+Added Pin To Net: NetName=RecC_CO1 Pin=P1_CO1-6
+Added Net: Name=RecC_CO1
+Added Pin To Net: NetName=RecC_CO2 Pin=IC2_CO2-10
+Added Pin To Net: NetName=RecC_CO2 Pin=P1_CO2-6
+Added Net: Name=RecC_CO2
+Added Pin To Net: NetName=RecC_CO3 Pin=IC2_CO3-10
+Added Pin To Net: NetName=RecC_CO3 Pin=P1_CO3-6
+Added Net: Name=RecC_CO3
+Added Pin To Net: NetName=RecC_CO4 Pin=IC2_CO4-10
+Added Pin To Net: NetName=RecC_CO4 Pin=P1_CO4-6
+Added Net: Name=RecC_CO4
+Added Pin To Net: NetName=RecC_CO5 Pin=IC2_CO5-10
+Added Pin To Net: NetName=RecC_CO5 Pin=P1_CO5-6
+Added Net: Name=RecC_CO5
+Added Pin To Net: NetName=RecC_CO6 Pin=IC2_CO6-10
+Added Pin To Net: NetName=RecC_CO6 Pin=P1_CO6-6
+Added Net: Name=RecC_CO6
+Added Pin To Net: NetName=RecC_CO7 Pin=IC2_CO7-10
+Added Pin To Net: NetName=RecC_CO7 Pin=P1_CO7-6
+Added Net: Name=RecC_CO7
+Added Pin To Net: NetName=RecC_CO8 Pin=IC2_CO8-10
+Added Pin To Net: NetName=RecC_CO8 Pin=P1_CO8-6
+Added Net: Name=RecC_CO8
+Added Pin To Net: NetName=RecD_CO1 Pin=IC2_CO1-12
+Added Pin To Net: NetName=RecD_CO1 Pin=P1_CO1-8
+Added Net: Name=RecD_CO1
+Added Pin To Net: NetName=RecD_CO2 Pin=IC2_CO2-12
+Added Pin To Net: NetName=RecD_CO2 Pin=P1_CO2-8
+Added Net: Name=RecD_CO2
+Added Pin To Net: NetName=RecD_CO3 Pin=IC2_CO3-12
+Added Pin To Net: NetName=RecD_CO3 Pin=P1_CO3-8
+Added Net: Name=RecD_CO3
+Added Pin To Net: NetName=RecD_CO4 Pin=IC2_CO4-12
+Added Pin To Net: NetName=RecD_CO4 Pin=P1_CO4-8
+Added Net: Name=RecD_CO4
+Added Pin To Net: NetName=RecD_CO5 Pin=IC2_CO5-12
+Added Pin To Net: NetName=RecD_CO5 Pin=P1_CO5-8
+Added Net: Name=RecD_CO5
+Added Pin To Net: NetName=RecD_CO6 Pin=IC2_CO6-12
+Added Pin To Net: NetName=RecD_CO6 Pin=P1_CO6-8
+Added Net: Name=RecD_CO6
+Added Pin To Net: NetName=RecD_CO7 Pin=IC2_CO7-12
+Added Pin To Net: NetName=RecD_CO7 Pin=P1_CO7-8
+Added Net: Name=RecD_CO7
+Added Pin To Net: NetName=RecD_CO8 Pin=IC2_CO8-12
+Added Pin To Net: NetName=RecD_CO8 Pin=P1_CO8-8
+Added Net: Name=RecD_CO8
+Added Member To Class: ClassName=CO1 Member=Component P1_CO1 (P1) Header 4X2
+Added Member To Class: ClassName=CO2 Member=Component P1_CO2 (P1) Header 4X2
+Added Member To Class: ClassName=CO3 Member=Component P1_CO3 (P1) Header 4X2
+Added Member To Class: ClassName=CO4 Member=Component P1_CO4 (P1) Header 4X2
+Added Member To Class: ClassName=CO5 Member=Component P1_CO5 (P1) Header 4X2
+Added Member To Class: ClassName=CO6 Member=Component P1_CO6 (P1) Header 4X2
+Added Member To Class: ClassName=CO7 Member=Component P1_CO7 (P1) Header 4X2
+Added Member To Class: ClassName=CO8 Member=Component P1_CO8 (P1) Header 4X2

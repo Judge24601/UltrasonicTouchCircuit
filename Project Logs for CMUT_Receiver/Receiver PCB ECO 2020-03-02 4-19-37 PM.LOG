@@ -1,0 +1,48 @@
+Change Component Designator: OldDesignator=IC?_CO1 NewDesignator=IC3_CO1
+Change Component Designator: OldDesignator=IC?_CO2 NewDesignator=IC3_CO2
+Change Component Designator: OldDesignator=IC?_CO3 NewDesignator=IC3_CO3
+Change Component Designator: OldDesignator=IC?_CO4 NewDesignator=IC3_CO4
+Change Component Designator: OldDesignator=IC?_CO5 NewDesignator=IC3_CO5
+Change Component Designator: OldDesignator=IC?_CO6 NewDesignator=IC3_CO6
+Change Component Designator: OldDesignator=IC?_CO7 NewDesignator=IC3_CO7
+Change Component Designator: OldDesignator=IC?_CO8 NewDesignator=IC3_CO8
+Change Net Name : Old Net Name=NetIC?_CO1_3 New Net Name=NetIC3_CO1_3
+Change Net Name : Old Net Name=NetIC?_CO2_3 New Net Name=NetIC3_CO2_3
+Change Net Name : Old Net Name=NetIC?_CO3_3 New Net Name=NetIC3_CO3_3
+Change Net Name : Old Net Name=NetIC?_CO4_3 New Net Name=NetIC3_CO4_3
+Change Net Name : Old Net Name=NetIC?_CO5_3 New Net Name=NetIC3_CO5_3
+Change Net Name : Old Net Name=NetIC?_CO6_3 New Net Name=NetIC3_CO6_3
+Change Net Name : Old Net Name=NetIC?_CO7_3 New Net Name=NetIC3_CO7_3
+Change Net Name : Old Net Name=NetIC?_CO8_3 New Net Name=NetIC3_CO8_3
+Added Pin To Net: NetName=NetIC1_CO1_16 Pin=IC1_CO1-16
+Added Pin To Net: NetName=NetIC1_CO1_16 Pin=IC3_CO1-14
+Added Pin To Net: NetName=NetIC1_CO1_16 Pin=R24_CO1-2
+Added Net: Name=NetIC1_CO1_16
+Added Pin To Net: NetName=NetIC1_CO2_16 Pin=IC1_CO2-16
+Added Pin To Net: NetName=NetIC1_CO2_16 Pin=IC3_CO2-14
+Added Pin To Net: NetName=NetIC1_CO2_16 Pin=R24_CO2-2
+Added Net: Name=NetIC1_CO2_16
+Added Pin To Net: NetName=NetIC1_CO3_16 Pin=IC1_CO3-16
+Added Pin To Net: NetName=NetIC1_CO3_16 Pin=IC3_CO3-14
+Added Pin To Net: NetName=NetIC1_CO3_16 Pin=R24_CO3-2
+Added Net: Name=NetIC1_CO3_16
+Added Pin To Net: NetName=NetIC1_CO4_16 Pin=IC1_CO4-16
+Added Pin To Net: NetName=NetIC1_CO4_16 Pin=IC3_CO4-14
+Added Pin To Net: NetName=NetIC1_CO4_16 Pin=R24_CO4-2
+Added Net: Name=NetIC1_CO4_16
+Added Pin To Net: NetName=NetIC1_CO5_16 Pin=IC1_CO5-16
+Added Pin To Net: NetName=NetIC1_CO5_16 Pin=IC3_CO5-14
+Added Pin To Net: NetName=NetIC1_CO5_16 Pin=R24_CO5-2
+Added Net: Name=NetIC1_CO5_16
+Added Pin To Net: NetName=NetIC1_CO6_16 Pin=IC1_CO6-16
+Added Pin To Net: NetName=NetIC1_CO6_16 Pin=IC3_CO6-14
+Added Pin To Net: NetName=NetIC1_CO6_16 Pin=R24_CO6-2
+Added Net: Name=NetIC1_CO6_16
+Added Pin To Net: NetName=NetIC1_CO7_16 Pin=IC1_CO7-16
+Added Pin To Net: NetName=NetIC1_CO7_16 Pin=IC3_CO7-14
+Added Pin To Net: NetName=NetIC1_CO7_16 Pin=R24_CO7-2
+Added Net: Name=NetIC1_CO7_16
+Added Pin To Net: NetName=NetIC1_CO8_16 Pin=IC1_CO8-16
+Added Pin To Net: NetName=NetIC1_CO8_16 Pin=IC3_CO8-14
+Added Pin To Net: NetName=NetIC1_CO8_16 Pin=R24_CO8-2
+Added Net: Name=NetIC1_CO8_16

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\braed\OneDrive\Documents\Capstone\CMUT_Receiver\Receiver.PcbDoc
-Date     : 2020-02-14
-Time     : 12:33:49 PM
+Date     : 2020-02-25
+Time     : 12:18:44 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -10,50 +10,9 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_10 Between Pad P1-27(1215mil,4350mil) on Multi-Layer And Pad IC2_CO1-10(2530.472mil,5270mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_12 Between Pad P1-25(1215mil,4250mil) on Multi-Layer And Pad IC2_CO1-12(2530.472mil,5370mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_3 Between Pad P1-31(1215mil,4550mil) on Multi-Layer And Pad IC2_CO1-3(2250mil,5370mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO1_5 Between Pad P1-29(1215mil,4450mil) on Multi-Layer And Pad IC2_CO1-5(2250mil,5270mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_10 Between Pad P1-19(1215mil,3950mil) on Multi-Layer And Pad IC2_CO2-10(2530.889mil,4565.205mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net -5 Between Track (1749.223mil,4830mil)(1860mil,4940.777mil) on Bottom Layer And Pad IC2_CO2-11(2530.889mil,4615.205mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_12 Between Pad P1-17(1215mil,3850mil) on Multi-Layer And Pad IC2_CO2-12(2530.889mil,4665.205mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_3 Between Pad P1-23(1215mil,4150mil) on Multi-Layer And Pad IC2_CO2-3(2250.417mil,4665.205mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO2_5 Between Pad P1-21(1215mil,4050mil) on Multi-Layer And Pad IC2_CO2-5(2250.417mil,4565.205mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_10 Between Pad P1-11(1215mil,3550mil) on Multi-Layer And Pad IC2_CO3-10(2530.889mil,3867.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_12 Between Pad P1-9(1215mil,3450mil) on Multi-Layer And Pad IC2_CO3-12(2530.889mil,3967.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_3 Between Pad P1-15(1215mil,3750mil) on Multi-Layer And Pad IC2_CO3-3(2250.417mil,3967.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO3_5 Between Pad P1-13(1215mil,3650mil) on Multi-Layer And Pad IC2_CO3-5(2250.417mil,3867.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_10 Between Pad P1-3(1215mil,3150mil) on Multi-Layer And Pad IC2_CO4-10(2527.374mil,3167.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_12 Between Pad P1-1(1215mil,3050mil) on Multi-Layer And Pad IC2_CO4-12(2527.374mil,3267.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_3 Between Pad P1-7(1215mil,3350mil) on Multi-Layer And Pad IC2_CO4-3(2246.902mil,3267.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO4_5 Between Pad P1-5(1215mil,3250mil) on Multi-Layer And Pad IC2_CO4-5(2246.902mil,3167.756mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_10 Between Pad P2-27(1215mil,2445mil) on Multi-Layer And Pad IC2_CO5-10(2527.374mil,2462.284mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_12 Between Pad P2-25(1215mil,2345mil) on Multi-Layer And Pad IC2_CO5-12(2527.374mil,2562.284mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_3 Between Pad P2-31(1215mil,2645mil) on Multi-Layer And Pad IC2_CO5-3(2246.902mil,2562.284mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO5_5 Between Pad P2-29(1215mil,2545mil) on Multi-Layer And Pad IC2_CO5-5(2246.902mil,2462.284mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_10 Between Pad P2-19(1215mil,2045mil) on Multi-Layer And Pad IC2_CO6-10(2527.374mil,1756.811mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_12 Between Pad P2-17(1215mil,1945mil) on Multi-Layer And Pad IC2_CO6-12(2527.374mil,1856.811mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_3 Between Pad P2-23(1215mil,2245mil) on Multi-Layer And Pad IC2_CO6-3(2246.902mil,1856.811mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO6_5 Between Pad P2-21(1215mil,2145mil) on Multi-Layer And Pad IC2_CO6-5(2246.902mil,1756.811mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_10 Between Pad P2-11(1215mil,1645mil) on Multi-Layer And Pad IC2_CO7-10(2527.374mil,1053.468mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_12 Between Pad P2-9(1215mil,1545mil) on Multi-Layer And Pad IC2_CO7-12(2527.374mil,1153.468mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_3 Between Pad P2-15(1215mil,1845mil) on Multi-Layer And Pad IC2_CO7-3(2246.902mil,1153.468mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO7_5 Between Pad P2-13(1215mil,1745mil) on Multi-Layer And Pad IC2_CO7-5(2246.902mil,1053.468mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_10 Between Pad P2-3(1215mil,1245mil) on Multi-Layer And Pad IC2_CO8-10(2527.374mil,350.794mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_12 Between Pad P2-1(1215mil,1145mil) on Multi-Layer And Pad IC2_CO8-12(2527.374mil,450.794mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_3 Between Pad P2-7(1215mil,1445mil) on Multi-Layer And Pad IC2_CO8-3(2246.902mil,450.794mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetIC2_CO8_5 Between Pad P2-5(1215mil,1345mil) on Multi-Layer And Pad IC2_CO8-5(2246.902mil,350.794mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO7_1 Between Track (3291.107mil,929.468mil)(3291.107mil,1024.429mil) on Top Layer And Track (3291.107mil,1120.216mil)(3291.107mil,1220.216mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO6_1 Between Track (3291.107mil,1632.812mil)(3291.107mil,1727.772mil) on Top Layer And Track (3291.107mil,1823.56mil)(3291.107mil,1923.56mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO8_1 Between Track (3291.107mil,226.794mil)(3291.107mil,321.755mil) on Top Layer And Track (3291.107mil,417.542mil)(3291.107mil,517.542mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO5_1 Between Track (3291.107mil,2338.284mil)(3291.107mil,2433.245mil) on Top Layer And Track (3291.107mil,2529.032mil)(3291.107mil,2629.032mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO4_1 Between Track (3291.107mil,3043.756mil)(3291.107mil,3138.717mil) on Top Layer And Track (3291.107mil,3234.504mil)(3291.107mil,3334.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO1_1 Between Track (3294.205mil,5146mil)(3294.205mil,5240.961mil) on Top Layer And Track (3294.205mil,5336.748mil)(3294.205mil,5436.748mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO3_1 Between Track (3294.622mil,3743.756mil)(3294.622mil,3838.717mil) on Top Layer And Track (3294.622mil,3934.504mil)(3294.622mil,4034.504mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_CO2_1 Between Track (3294.622mil,4441.205mil)(3294.622mil,4536.166mil) on Top Layer And Track (3294.622mil,4631.953mil)(3294.622mil,4731.953mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net -5 Between Track (3521.107mil,297.022mil)(3569.107mil,297.022mil) on Top Layer And Track (3569.107mil,466.542mil)(3569.107mil,466.888mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net -5 Between Track (3572.205mil,5385.748mil)(3572.205mil,5386.095mil) on Top Layer And Track (3572.205mil,5216.229mil)(3579.505mil,5216.229mil) on Top Layer 
-Rule Violations :43
+   Violation between Un-Routed Net Constraint: Net -5 Between Track (3479.205mil,286.229mil)(3527.205mil,286.229mil) on Top Layer And Track (3527.205mil,455.748mil)(3527.205mil,456.094mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net -5 Between Track (3527.205mil,5355.748mil)(3527.205mil,5356.095mil) on Top Layer And Track (3534.505mil,5186.229mil)(3545.024mil,5175.709mil) on Top Layer 
+Rule Violations :2
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -77,47 +36,76 @@ Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1135mil,1045mil) on Top Overlay And Track (1065mil,1095mil)(1265mil,1095mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
-   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1135mil,2950mil) on Top Overlay And Track (1065mil,3000mil)(1265mil,3000mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
-   Violation between Silk To Silk Clearance Constraint: (7.063mil < 10mil) Between Text "31" (1235mil,4615mil) on Top Overlay And Track (1065mil,4600mil)(1265mil,4600mil) on Top Overlay Silk Text to Silk Clearance [7.063mil]
-   Violation between Silk To Silk Clearance Constraint: (7.063mil < 10mil) Between Text "32" (1135mil,4615mil) on Top Overlay And Track (1065mil,4600mil)(1265mil,4600mil) on Top Overlay Silk Text to Silk Clearance [7.063mil]
-Rule Violations :4
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,1290.961mil) on Top Overlay And Track (1415mil,1260.961mil)(1615mil,1260.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,1990.961mil) on Top Overlay And Track (1415mil,1960.961mil)(1615mil,1960.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,2690.961mil) on Top Overlay And Track (1415mil,2660.961mil)(1615mil,2660.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,3390.961mil) on Top Overlay And Track (1415mil,3360.961mil)(1615mil,3360.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,4090.961mil) on Top Overlay And Track (1415mil,4060.961mil)(1615mil,4060.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,4790.961mil) on Top Overlay And Track (1415mil,4760.961mil)(1615mil,4760.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,5490.961mil) on Top Overlay And Track (1415mil,5460.961mil)(1615mil,5460.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (5.402mil < 10mil) Between Text "1" (1445mil,590.961mil) on Top Overlay And Track (1415mil,560.961mil)(1615mil,560.961mil) on Top Overlay Silk Text to Silk Clearance [5.402mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,1310.961mil) on Top Overlay And Track (1415mil,1260.961mil)(1615mil,1260.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,2010.961mil) on Top Overlay And Track (1415mil,1960.961mil)(1615mil,1960.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,2710.961mil) on Top Overlay And Track (1415mil,2660.961mil)(1615mil,2660.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,3410.961mil) on Top Overlay And Track (1415mil,3360.961mil)(1615mil,3360.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,4110.961mil) on Top Overlay And Track (1415mil,4060.961mil)(1615mil,4060.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,4810.961mil) on Top Overlay And Track (1415mil,4760.961mil)(1615mil,4760.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,5510.961mil) on Top Overlay And Track (1415mil,5460.961mil)(1615mil,5460.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (8.74mil < 10mil) Between Text "2" (1545mil,610.961mil) on Top Overlay And Track (1415mil,560.961mil)(1615mil,560.961mil) on Top Overlay Silk Text to Silk Clearance [8.74mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,150.961mil) on Top Overlay And Track (1415mil,160.961mil)(1615mil,160.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,1550.961mil) on Top Overlay And Track (1415mil,1560.961mil)(1615mil,1560.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,2250.961mil) on Top Overlay And Track (1415mil,2260.961mil)(1615mil,2260.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,2950.961mil) on Top Overlay And Track (1415mil,2960.961mil)(1615mil,2960.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,3650.961mil) on Top Overlay And Track (1415mil,3660.961mil)(1615mil,3660.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,4350.961mil) on Top Overlay And Track (1415mil,4360.961mil)(1615mil,4360.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,5050.961mil) on Top Overlay And Track (1415mil,5060.961mil)(1615mil,5060.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "7" (1445mil,850.961mil) on Top Overlay And Track (1415mil,860.961mil)(1615mil,860.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,150.961mil) on Top Overlay And Track (1415mil,160.961mil)(1615mil,160.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,1550.961mil) on Top Overlay And Track (1415mil,1560.961mil)(1615mil,1560.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,2250.961mil) on Top Overlay And Track (1415mil,2260.961mil)(1615mil,2260.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,2950.961mil) on Top Overlay And Track (1415mil,2960.961mil)(1615mil,2960.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,3650.961mil) on Top Overlay And Track (1415mil,3660.961mil)(1615mil,3660.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,4350.961mil) on Top Overlay And Track (1415mil,4360.961mil)(1615mil,4360.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,5050.961mil) on Top Overlay And Track (1415mil,5060.961mil)(1615mil,5060.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (2.063mil < 10mil) Between Text "8" (1545mil,850.961mil) on Top Overlay And Track (1415mil,860.961mil)(1615mil,860.961mil) on Top Overlay Silk Text to Silk Clearance [2.063mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "P1_CO7" (1417mil,4851.961mil) on Top Overlay And Track (1130mil,4890mil)(1430mil,4890mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "P1_CO7" (1417mil,4851.961mil) on Top Overlay And Track (1430mil,4890mil)(1430mil,4990mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :34
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (1749.223mil,4830mil)(1860mil,4940.777mil) on Bottom Layer 
-Rule Violations :1
-
-Processing Rule : Room CO8 (Bounding Region = (1776.902mil, 50.794mil, 5096.595mil, 750.794mil) (InComponentClass('CO8'))
 Rule Violations :0
 
-Processing Rule : Room CO4 (Bounding Region = (1776.902mil, 2867.756mil, 5096.595mil, 3567.756mil) (InComponentClass('CO4'))
+Processing Rule : Room CO8 (Bounding Region = (1340mil, 4940mil, 5054.693mil, 5640mil) (InComponentClass('CO8'))
 Rule Violations :0
 
-Processing Rule : Room CO5 (Bounding Region = (1776.902mil, 2162.284mil, 5096.595mil, 2862.284mil) (InComponentClass('CO5'))
+Processing Rule : Room CO4 (Bounding Region = (1340mil, 2140mil, 5054.693mil, 2840mil) (InComponentClass('CO4'))
 Rule Violations :0
 
-Processing Rule : Room CO6 (Bounding Region = (1776.902mil, 1456.811mil, 5096.595mil, 2156.811mil) (InComponentClass('CO6'))
+Processing Rule : Room CO5 (Bounding Region = (1340mil, 2840mil, 5054.693mil, 3540mil) (InComponentClass('CO5'))
 Rule Violations :0
 
-Processing Rule : Room CO3 (Bounding Region = (1780.417mil, 3567.756mil, 5100.11mil, 4267.756mil) (InComponentClass('CO3'))
+Processing Rule : Room CO6 (Bounding Region = (1340mil, 3540mil, 5054.693mil, 4240mil) (InComponentClass('CO6'))
 Rule Violations :0
 
-Processing Rule : Room Receiver (Bounding Region = (995mil, 1000mil, 1780mil, 4990mil) (InComponentClass('Receiver'))
+Processing Rule : Room CO3 (Bounding Region = (1340mil, 1440mil, 5054.693mil, 2140mil) (InComponentClass('CO3'))
 Rule Violations :0
 
-Processing Rule : Room CO7 (Bounding Region = (1776.902mil, 753.468mil, 5096.595mil, 1453.468mil) (InComponentClass('CO7'))
+Processing Rule : Room Receiver (Bounding Region = (1025mil, 1010mil, 1480mil, 5030mil) (InComponentClass('Receiver'))
 Rule Violations :0
 
-Processing Rule : Room CO2 (Bounding Region = (1780.417mil, 4265.205mil, 5100.11mil, 4965.205mil) (InComponentClass('CO2'))
+Processing Rule : Room CO7 (Bounding Region = (1340mil, 4240mil, 5054.693mil, 4940mil) (InComponentClass('CO7'))
 Rule Violations :0
 
-Processing Rule : Room CO1 (Bounding Region = (1780mil, 4970mil, 5099.693mil, 5670mil) (InComponentClass('CO1'))
+Processing Rule : Room CO2 (Bounding Region = (1340mil, 740mil, 5054.693mil, 1440mil) (InComponentClass('CO2'))
+Rule Violations :0
+
+Processing Rule : Room CO1 (Bounding Region = (1340mil, 40mil, 5054.693mil, 740mil) (InComponentClass('CO1'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 48
+Violations Detected : 36
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02

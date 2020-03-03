@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=NetR7_CO1_2 Pin=IC1_CO1-10
+Added Pin To Net: NetName=NetR7_CO2_2 Pin=IC1_CO2-10
+Added Pin To Net: NetName=NetR7_CO3_2 Pin=IC1_CO3-10
+Added Pin To Net: NetName=NetR7_CO4_2 Pin=IC1_CO4-10
+Added Pin To Net: NetName=NetR7_CO5_2 Pin=IC1_CO5-10
+Added Pin To Net: NetName=NetR7_CO6_2 Pin=IC1_CO6-10
+Added Pin To Net: NetName=NetR7_CO7_2 Pin=IC1_CO7-10
+Added Pin To Net: NetName=NetR7_CO8_2 Pin=IC1_CO8-10
+Change Net Name : Old Net Name=NetR7_CO1_2 New Net Name=NetIC1_CO1_10
+Change Net Name : Old Net Name=NetR7_CO2_2 New Net Name=NetIC1_CO2_10
+Change Net Name : Old Net Name=NetR7_CO3_2 New Net Name=NetIC1_CO3_10
+Change Net Name : Old Net Name=NetR7_CO4_2 New Net Name=NetIC1_CO4_10
+Change Net Name : Old Net Name=NetR7_CO5_2 New Net Name=NetIC1_CO5_10
+Change Net Name : Old Net Name=NetR7_CO6_2 New Net Name=NetIC1_CO6_10
+Change Net Name : Old Net Name=NetR7_CO7_2 New Net Name=NetIC1_CO7_10
+Change Net Name : Old Net Name=NetR7_CO8_2 New Net Name=NetIC1_CO8_10

@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=NetR7_CO1_2 Pin=R7_CO1-2
+Added Pin To Net: NetName=NetR7_CO1_2 Pin=R8_CO1-2
+Added Pin To Net: NetName=NetR7_CO1_2 Pin=R11_CO1-2
+Added Net: Name=NetR7_CO1_2
+Added Pin To Net: NetName=NetR7_CO2_2 Pin=R7_CO2-2
+Added Pin To Net: NetName=NetR7_CO2_2 Pin=R8_CO2-2
+Added Pin To Net: NetName=NetR7_CO2_2 Pin=R11_CO2-2
+Added Net: Name=NetR7_CO2_2
+Added Pin To Net: NetName=NetR7_CO3_2 Pin=R7_CO3-2
+Added Pin To Net: NetName=NetR7_CO3_2 Pin=R8_CO3-2
+Added Pin To Net: NetName=NetR7_CO3_2 Pin=R11_CO3-2
+Added Net: Name=NetR7_CO3_2
+Added Pin To Net: NetName=NetR7_CO4_2 Pin=R7_CO4-2
+Added Pin To Net: NetName=NetR7_CO4_2 Pin=R8_CO4-2
+Added Pin To Net: NetName=NetR7_CO4_2 Pin=R11_CO4-2
+Added Net: Name=NetR7_CO4_2
+Added Pin To Net: NetName=NetR7_CO5_2 Pin=R7_CO5-2
+Added Pin To Net: NetName=NetR7_CO5_2 Pin=R8_CO5-2
+Added Pin To Net: NetName=NetR7_CO5_2 Pin=R11_CO5-2
+Added Net: Name=NetR7_CO5_2
+Added Pin To Net: NetName=NetR7_CO6_2 Pin=R7_CO6-2
+Added Pin To Net: NetName=NetR7_CO6_2 Pin=R8_CO6-2
+Added Pin To Net: NetName=NetR7_CO6_2 Pin=R11_CO6-2
+Added Net: Name=NetR7_CO6_2
+Added Pin To Net: NetName=NetR7_CO7_2 Pin=R7_CO7-2
+Added Pin To Net: NetName=NetR7_CO7_2 Pin=R8_CO7-2
+Added Pin To Net: NetName=NetR7_CO7_2 Pin=R11_CO7-2
+Added Net: Name=NetR7_CO7_2
+Added Pin To Net: NetName=NetR7_CO8_2 Pin=R7_CO8-2
+Added Pin To Net: NetName=NetR7_CO8_2 Pin=R8_CO8-2
+Added Pin To Net: NetName=NetR7_CO8_2 Pin=R11_CO8-2
+Added Net: Name=NetR7_CO8_2
