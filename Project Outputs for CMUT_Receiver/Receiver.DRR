@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Receiver.PcbDoc   2020-03-02  11:00:25 PM
+NCDrill File Report For: Receiver.PcbDoc   2020-03-03  11:22:51 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : Receiver.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      28mil (0.711mm)                                           Round             296       PTH        0.00inch (0.00mm)
+T1      28mil (0.711mm)                                           Round             312       PTH        0.00inch (0.00mm)
 T2      29mil (0.737mm)                                           Round             3         PTH        0.00inch (0.00mm)
-T3      35mil (0.889mm)                                           Round             123       PTH        0.00inch (0.00mm)
+T3      35mil (0.889mm)                                           Round             125       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              422
+Totals                                                                              440
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

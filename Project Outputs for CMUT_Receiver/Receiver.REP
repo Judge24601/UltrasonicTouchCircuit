@@ -62,6 +62,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : Receiver.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : Receiver.GP2
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : Receiver.GM1
 
@@ -256,35 +302,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Receiver.GTO
-
-    Adding Layer      : Top Overlay
+Generating : Drill Drawing
+      File : Receiver.GD1
 
     Adding Layer      : Mechanical 1
 
     Adding Layer      : Mechanical 13
 
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : VCC
-      File : Receiver.GP2
-
-    Adding Layer      : VCC
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
@@ -292,12 +319,28 @@ Used DCodes :
     D12
     D13
     D14
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Receiver.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D48
 *************************************************************
 
