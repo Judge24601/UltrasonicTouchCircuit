@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\braed\OneDrive\Documents\Capstone\CMUT_Receiver\Receiver.PcbDoc
-Date     : 2020-03-02
-Time     : 11:49:02 PM
+Date     : 2020-03-03
+Time     : 12:12:08 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -10,9 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net -5 Between Track (3479.205mil,286.229mil)(3527.205mil,286.229mil) on Top Layer And Track (3527.205mil,455.748mil)(3527.205mil,456.094mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net -5 Between Track (3526.772mil,5188.199mil)(3534.072mil,5188.199mil) on Top Layer And Track (3526.772mil,5357.719mil)(3526.772mil,5358.065mil) on Top Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -30,15 +28,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO1-2(4212.598mil,290mil) on Top Layer And Via (4150mil,305mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO2-2(4212.598mil,990mil) on Top Layer And Via (4150mil,1005mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO3-2(4212.598mil,1690mil) on Top Layer And Via (4150mil,1705mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO4-2(4212.598mil,2390mil) on Top Layer And Via (4150mil,2405mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO5-2(4212.598mil,3090mil) on Top Layer And Via (4150mil,3105mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO6-2(4212.598mil,3790mil) on Top Layer And Via (4150mil,3805mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO7-2(4212.598mil,4490mil) on Top Layer And Via (4150mil,4505mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (9.913mil < 10mil) Between Pad R12_CO8-2(4212.165mil,5191.97mil) on Top Layer And Via (4149.567mil,5206.97mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.913mil]
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
 Rule Violations :0
@@ -47,9 +37,7 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (3249.205mil,41.219mil)(3249.205mil,216mil) on Top Layer 
-   Violation between Net Antennae: Track (5449.567mil,5429mil)(5481.567mil,5397mil) on Top Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Room CO3 (Bounding Region = (1340mil, 1440mil, 5610.433mil, 2140mil) (InComponentClass('CO3'))
 Rule Violations :0
@@ -79,6 +67,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:03
